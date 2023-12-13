@@ -67,6 +67,7 @@ struct fileContents readFile(char* filename) {
     return contents;
 }
 
+
 int sumCalibrations(int len, char ** fileContents){
     int acc = 0;
     int ans = 0;
@@ -77,6 +78,7 @@ int sumCalibrations(int len, char ** fileContents){
     }
     return acc;
 }
+
 
 int getCalibration(char* str) {
     int len = strlen(str);
