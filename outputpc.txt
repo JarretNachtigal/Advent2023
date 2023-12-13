@@ -1,0 +1,3001 @@
+lines number = 1000
+str four9one
+first 9, last, 9, res 99
+99
+str bbzhsmnmtf8kftwosevenxfkssgrcjthree
+first 8, last, 8, res 88
+187
+str 6pkkcddsixsixjgnjvdtjtwo
+first 6, last, 6, res 66
+253
+str 4four45seven7nine7two
+first 4, last, 7, res 47
+300
+str rcssix4
+first 4, last, 4, res 44
+344
+str thfjtb56c
+first 5, last, 6, res 56
+400
+str kkdhmmvvmthreezxqzqmb4khprbldcr
+first 4, last, 4, res 44
+444
+str 65bnhfgcgfxgqflblvjdhhtvzpfoureightfive
+first 6, last, 5, res 65
+509
+str 8eightvdj
+first 8, last, 8, res 88
+597
+str h61gjgfhrgndb725
+first 6, last, 5, res 65
+662
+str 7rzm2five
+first 7, last, 2, res 72
+734
+str 9167ddtxjpxb6
+first 9, last, 6, res 96
+830
+str 4nine36knlfjmdgfourdmczsxv
+first 4, last, 6, res 46
+876
+str ljnff279
+first 2, last, 9, res 29
+905
+str nineeightsixzsfiveseven1jqnxbhhd
+first 1, last, 1, res 11
+916
+str jptwoeight6fourfrbpgsmkgl
+first 6, last, 6, res 66
+982
+str znfqfjcspf8md
+first 8, last, 8, res 88
+1070
+str sixthree7qzj
+first 7, last, 7, res 77
+1147
+str 39cfncbzj48two2
+first 3, last, 2, res 32
+1179
+str 52eight9fivefivesix
+first 5, last, 9, res 59
+1238
+str 26nine
+first 2, last, 6, res 26
+1264
+str fsgpvxpqtk2eightlvb1ninebflbsskdbthztgvcl
+first 2, last, 1, res 21
+1285
+str twoone7ndjxttt
+first 7, last, 7, res 77
+1362
+str bpvbv5nzhsfg
+first 5, last, 5, res 55
+1417
+str onethree1kxcxzmvmkxjmtwosix
+first 1, last, 1, res 11
+1428
+str 2prfceightdvcjnhzt3lmzfdnvxjgsix1
+first 2, last, 1, res 21
+1449
+str ninefivegnsk5cz2sevenblfmtpqcfr
+first 5, last, 2, res 52
+1501
+str sixrninehnfggfbxrjm7five
+first 7, last, 7, res 77
+1578
+str qrlmkxckhfournfbfkgdzfqrztjs116
+first 1, last, 6, res 16
+1594
+str 3cf4kbkclqfourseven4
+first 3, last, 4, res 34
+1628
+str ncqt3523two
+first 3, last, 3, res 33
+1661
+str fivevhbfndcqcbthreemg4six
+first 4, last, 4, res 44
+1705
+str 7sixfb6
+first 7, last, 6, res 76
+1781
+str sixfourmqqgmbxdgznkdbzdszc9
+first 9, last, 9, res 99
+1880
+str 3prcphmzcmt12
+first 3, last, 2, res 32
+1912
+str fourznt9mk
+first 9, last, 9, res 99
+2011
+str twotwotdnbbbczxv8four
+first 8, last, 8, res 88
+2099
+str 12fnqfsevensix
+first 1, last, 2, res 12
+2111
+str seven96
+first 9, last, 6, res 96
+2207
+str 6three6s5
+first 6, last, 5, res 65
+2272
+str sixtqqszg6fourzbjhkvlkmnkdztq
+first 6, last, 6, res 66
+2338
+str two3bqnbxbvhspk
+first 3, last, 3, res 33
+2371
+str flcqsevenlgvtnvnctpfjvrlg65dkdbjn9
+first 6, last, 9, res 69
+2440
+str threexnddmsxfmtwo31
+first 3, last, 1, res 31
+2471
+str four498
+first 4, last, 8, res 48
+2519
+str eight5one43nmkxdseight5
+first 5, last, 5, res 55
+2574
+str 1knmbd6
+first 1, last, 6, res 16
+2590
+str 8mxvjtthreelcfbhqfxjdvcpfiveonenine
+first 8, last, 8, res 88
+2678
+str 641ppmssronechd
+first 6, last, 1, res 61
+2739
+str jzhhftmnnpgqcxjffourfnpssgmg6seveneightkvhnnmzv
+first 6, last, 6, res 66
+2805
+str 5nddhls
+first 5, last, 5, res 55
+2860
+str fsc7kv41
+first 7, last, 1, res 71
+2931
+str pqkmmdb96dcvrbtmtnfour4mcthkfvrf
+first 9, last, 4, res 94
+3025
+str fbnndk1twosix4
+first 1, last, 4, res 14
+3039
+str sevennine7eightpmlxqprzvjone
+first 7, last, 7, res 77
+3116
+str lfftbhbtctplbpgn4
+first 4, last, 4, res 44
+3160
+str 31fivemlnrxfh6one3
+first 3, last, 3, res 33
+3193
+str 5fmrtkgj92pdvcgtxj
+first 5, last, 2, res 52
+3245
+str 6pjfz9twofive1bfdseven
+first 6, last, 1, res 61
+3306
+str twotjrtlzflrhlgmmjssbcdtpkm3six5
+first 3, last, 5, res 35
+3341
+str four69kdmtz3sixfive4
+first 6, last, 4, res 64
+3405
+str twofrxqnljztltzvzzsp1575one
+first 1, last, 5, res 15
+3420
+str mhsrfclpqeightfive3grklzhlklxoneonetwo
+first 3, last, 3, res 33
+3453
+str 3eightmjvfpstx64six
+first 3, last, 4, res 34
+3487
+str 5fourmrmcn
+first 5, last, 5, res 55
+3542
+str ninelnqjlb1csjdnf
+first 1, last, 1, res 11
+3553
+str fmklqlxrh9vsbhpmbrd7621seven
+first 9, last, 1, res 91
+3644
+str twosevenone3six4tdltwo
+first 3, last, 4, res 34
+3678
+str 9sevenfour
+first 9, last, 9, res 99
+3777
+str two6sevennine27three78
+first 6, last, 8, res 68
+3845
+str mtjfmrjdcmsix9
+first 9, last, 9, res 99
+3944
+str mpxksevenj4nrmjgc3
+first 4, last, 3, res 43
+3987
+str xllmc4ld9
+first 4, last, 9, res 49
+4036
+str jdrtnineeightthreexxklsbmseveneight9
+first 9, last, 9, res 99
+4135
+str xmkfpfjhlpdbthreenfmcphvtjpseven28
+first 2, last, 8, res 28
+4163
+str 9fivenine
+first 9, last, 9, res 99
+4262
+str vqzlbthreezgjsp3kqlhsxjhmbztgn
+first 3, last, 3, res 33
+4295
+str pnm564v8seven
+first 5, last, 8, res 58
+4353
+str fltwone3twocdzlqmbqc7pjtxnine16
+first 3, last, 6, res 36
+4389
+str gjcfsftcfivesix141
+first 1, last, 1, res 11
+4400
+str cgxnbhk66eighttwofour
+first 6, last, 6, res 66
+4466
+str x1km2
+first 1, last, 2, res 12
+4478
+str ldsxsvpnncxtwonine84sixrrrmvthree
+first 8, last, 4, res 84
+4562
+str mzrrlrjtqsixdgccvbxnpnspbccmhk6n
+first 6, last, 6, res 66
+4628
+str 7t8fiverntkppnine
+first 7, last, 8, res 78
+4706
+str 8dkbgh8
+first 8, last, 8, res 88
+4794
+str 73twodvndkl
+first 7, last, 3, res 73
+4867
+str 8nnhbbrlh83ttxctrqd6
+first 8, last, 6, res 86
+4953
+str 5ninefive
+first 5, last, 5, res 55
+5008
+str eightnine496sdqcxrfms5pksrpq
+first 4, last, 5, res 45
+5053
+str 6two6threeeightwott
+first 6, last, 6, res 66
+5119
+str 2184threethree3four
+first 2, last, 3, res 23
+5142
+str 3fourninefourjjtqrng
+first 3, last, 3, res 33
+5175
+str qhbjcm1seven
+first 1, last, 1, res 11
+5186
+str djpjfcjjkpcl15sixone85
+first 1, last, 5, res 15
+5201
+str stptwoprjsix5sixseven
+first 5, last, 5, res 55
+5256
+str qpxbvxxnbeightsix9
+first 9, last, 9, res 99
+5355
+str sevenktjmbtwo4
+first 4, last, 4, res 44
+5399
+str vbpz46two3
+first 4, last, 3, res 43
+5442
+str 8five3foursix
+first 8, last, 3, res 83
+5525
+str 47ztcbvfhrgnineseveneight67
+first 4, last, 7, res 47
+5572
+str nineptnqrcjggnfour1
+first 1, last, 1, res 11
+5583
+str 16six38mrglvdmpnine2
+first 1, last, 2, res 12
+5595
+str 992fourtwo
+first 9, last, 2, res 92
+5687
+str zftdjcmh3fivembvs6eightthreesix6
+first 3, last, 6, res 36
+5723
+str 5gnlpfdqtlsccmtzbchjqbjjjsevensix
+first 5, last, 5, res 55
+5778
+str fiveseventhree4two
+first 4, last, 4, res 44
+5822
+str pkkrfhtwoztblseventjvqpg15
+first 1, last, 5, res 15
+5837
+str s2
+first 2, last, 2, res 22
+5859
+str 98652cksvxdsbone5
+first 9, last, 5, res 95
+5954
+str 6dsnhqmkxmgrpp7nineeight4mnn
+first 6, last, 4, res 64
+6018
+str eightscjzjbzxrgxnldqlgqmdb7xnbxlnsevendcpvvf
+first 7, last, 7, res 77
+6095
+str threesthreefgkrtkvdl55chnmjbddlhddh
+first 5, last, 5, res 55
+6150
+str kdxgccsdrhone19947kbfvkqgccbkl
+first 1, last, 7, res 17
+6167
+str ninenlqcxpzdsf36three
+first 3, last, 6, res 36
+6203
+str 422xpmfxjqrb
+first 4, last, 2, res 42
+6245
+str 5796
+first 5, last, 6, res 56
+6301
+str 521seven9fourl1
+first 5, last, 1, res 51
+6352
+str 82four
+first 8, last, 2, res 82
+6434
+str ghnqeight75ninefive
+first 7, last, 5, res 75
+6509
+str twohqcrnd9two
+first 9, last, 9, res 99
+6608
+str prblcqjxmm3fouronevbrgslrxchgfvrxcd3
+first 3, last, 3, res 33
+6641
+str 8onesix9rmszglspgjthcntmmlqk
+first 8, last, 9, res 89
+6730
+str ffjqtrjtdftwosix5zc5six5
+first 5, last, 5, res 55
+6785
+str fourthree4ks8
+first 4, last, 8, res 48
+6833
+str 6mblzskfhgcfn
+first 6, last, 6, res 66
+6899
+str fkp524
+first 5, last, 4, res 54
+6953
+str gsix849jhtwo
+first 8, last, 9, res 89
+7042
+str fourfournnpgzleight6eightcnlgfcvvsevennine
+first 6, last, 6, res 66
+7108
+str p5
+first 5, last, 5, res 55
+7163
+str jcmdcbqzsvzvkzgfrdnj65gpvdpxl72one
+first 6, last, 2, res 62
+7225
+str vhsnjtm9lxmdkhhkrlcssrdh63
+first 9, last, 3, res 93
+7318
+str shoneightmnxnkgthree3
+first 3, last, 3, res 33
+7351
+str 2five8dgzqgrjzrh9eightfrqthree
+first 2, last, 9, res 29
+7380
+str jh2mmsdtzktkgoneeightonefive2nine
+first 2, last, 2, res 22
+7402
+str 39eight34sgxvpgkmeight4
+first 3, last, 4, res 34
+7436
+str sixlkr8threejfghvl2five9
+first 8, last, 9, res 89
+7525
+str v5
+first 5, last, 5, res 55
+7580
+str 48sevenonesixglgteightsevenfive
+first 4, last, 8, res 48
+7628
+str two34
+first 3, last, 4, res 34
+7662
+str 37
+first 3, last, 7, res 37
+7699
+str 9fourtwo928jkdcsfdfivekfr
+first 9, last, 8, res 98
+7797
+str hfsfseven4
+first 4, last, 4, res 44
+7841
+str nine3sevenqnkc6tqphlrmsnvsnt
+first 3, last, 6, res 36
+7877
+str hfpgk5bnjpnmfour6lpsmm2
+first 5, last, 2, res 52
+7929
+str tmrx31fiveseven1bgvfnpr5
+first 3, last, 5, res 35
+7964
+str two8sixfourfiveninetwo
+first 8, last, 8, res 88
+8052
+str fbpclsfivesixthree7
+first 7, last, 7, res 77
+8129
+str l9seveneightgfive
+first 9, last, 9, res 99
+8228
+str jqnbtxj15
+first 1, last, 5, res 15
+8243
+str qqdsff8467five
+first 8, last, 7, res 87
+8330
+str 2fivetwooneczckldrdcmvlhxnqcxddzmthree
+first 2, last, 2, res 22
+8352
+str three39four3
+first 3, last, 3, res 33
+8385
+str 5sevensznnrkfldnppzgf
+first 5, last, 5, res 55
+8440
+str 5fgrrmh1eightthreedpdfourfour
+first 5, last, 1, res 51
+8491
+str two9onengbsmhl
+first 9, last, 9, res 99
+8590
+str qeightrrj8
+first 8, last, 8, res 88
+8678
+str fiveqvsrrxmjbxs2
+first 2, last, 2, res 22
+8700
+str 63354ninem
+first 6, last, 4, res 64
+8764
+str 4pkhvqnzsix21xlxbks4fiverllxqjkcqg
+first 4, last, 4, res 44
+8808
+str ktrfour17nine92
+first 1, last, 2, res 12
+8820
+str 3sixsevensz
+first 3, last, 3, res 33
+8853
+str six5bqprcccgx68gflmfivegkkmqghp
+first 5, last, 8, res 58
+8911
+str twothreefivecnmlkzseven9xfqscvpc
+first 9, last, 9, res 99
+9010
+str five7csjkxtflf9ldbblfive5
+first 7, last, 5, res 75
+9085
+str seven518sixnine4
+first 5, last, 4, res 54
+9139
+str rgqbzngcvgfivesix257
+first 2, last, 7, res 27
+9166
+str sjllqnfs5cjffivetcczglbqqxxncs
+first 5, last, 5, res 55
+9221
+str 6tsghfivecjb
+first 6, last, 6, res 66
+9287
+str xgpkxl2six3fbxpzlj2sixfjqt
+first 2, last, 2, res 22
+9309
+str onexmdkzjqbthtbgtnnine6threelsixchlxmnc
+first 6, last, 6, res 66
+9375
+str ninenine2sevenkjxtrbk
+first 2, last, 2, res 22
+9397
+str nine531one4mpgznfsdl14
+first 5, last, 4, res 54
+9451
+str 9fourjlvdhvmlxtfknbpzbbcmgncqb
+first 9, last, 9, res 99
+9550
+str 62mztmjgninesixeight
+first 6, last, 2, res 62
+9612
+str eight1oneqzqvsxvc3pkqr
+first 1, last, 3, res 13
+9625
+str 529
+first 5, last, 9, res 59
+9684
+str one1sixeighteight1npsevensix
+first 1, last, 1, res 11
+9695
+str twoninethree8two
+first 8, last, 8, res 88
+9783
+str lfoneight4
+first 4, last, 4, res 44
+9827
+str one7jkqghfrssxninepfkhdzxqtsevenrbvscsffzkseven9
+first 7, last, 9, res 79
+9906
+str lkcggvk26seveneight
+first 2, last, 6, res 26
+9932
+str 1d11threeeight
+first 1, last, 1, res 11
+9943
+str 3ninetwostmtwo
+first 3, last, 3, res 33
+9976
+str fourthreelhbgtvjst3lfmkrseven8three
+first 3, last, 8, res 38
+10014
+str 72sixb5lvtmqrlss
+first 7, last, 5, res 75
+10089
+str threenvpxcsmxjqtqrbctvppfhrhgtvsv55
+first 5, last, 5, res 55
+10144
+str cgsmqsixonevsvttj2rp8zfbkkfvsix
+first 2, last, 8, res 28
+10172
+str clsjmsbrvxcfkjf6threeeighttwofive
+first 6, last, 6, res 66
+10238
+str sevenxcjtsjslfrzxnkntfddninethreefour96
+first 9, last, 6, res 96
+10334
+str 3eight272ninemjssdblfour
+first 3, last, 2, res 32
+10366
+str 4trbfmdbfqz
+first 4, last, 4, res 44
+10410
+str 5five92437btbsqlzhjbml
+first 5, last, 7, res 57
+10467
+str 9five3six
+first 9, last, 3, res 93
+10560
+str 13six4mbjgchbpcchfivemgzpll
+first 1, last, 4, res 14
+10574
+str pslhgzgfzfzskdckpsxxftmljbxpxsix5fivethree1
+first 5, last, 1, res 51
+10625
+str nzcdvfqzlbsdbkbkr2eightztgzm
+first 2, last, 2, res 22
+10647
+str three1seven41twosixpg
+first 1, last, 1, res 11
+10658
+str eightvjtvnzthreevdfourlgfq1
+first 1, last, 1, res 11
+10669
+str dctbzcnllsdqxknvxnczpfjrx1eighteightjdksrpseven
+first 1, last, 1, res 11
+10680
+str 4pgcmgd
+first 4, last, 4, res 44
+10724
+str 2rqsix6
+first 2, last, 6, res 26
+10750
+str eightonedgj9
+first 9, last, 9, res 99
+10849
+str one6prgdcz9
+first 6, last, 9, res 69
+10918
+str 5vvlxrhtdtwoneq
+first 5, last, 5, res 55
+10973
+str vnxmtdtwo9threerhvrbfhllh
+first 9, last, 9, res 99
+11072
+str 83qkvdggrltnine7gqmhlbonetf
+first 8, last, 7, res 87
+11159
+str sevenkk9two3
+first 9, last, 3, res 93
+11252
+str seven3dvbl
+first 3, last, 3, res 33
+11285
+str 6lklcq
+first 6, last, 6, res 66
+11351
+str one48dhgprcl5bsn
+first 4, last, 5, res 45
+11396
+str sixfour7gsmfive4mpslhbsg1seventwoneg
+first 7, last, 1, res 71
+11467
+str hmjkrrprr4eight2sixtwo
+first 4, last, 2, res 42
+11509
+str 222
+first 2, last, 2, res 22
+11531
+str nine1tscmztpxjbzjfm
+first 1, last, 1, res 11
+11542
+str nteightwosix5pnvnfxmn34onexhlcj
+first 5, last, 4, res 54
+11596
+str nine3rnsqrc
+first 3, last, 3, res 33
+11629
+str fivenmtbcpv3lfmddskrmh3
+first 3, last, 3, res 33
+11662
+str qfour9ftxbsgl4zrcxjphpdtfivefive5
+first 9, last, 5, res 95
+11757
+str drksixbkkgfjq3chnsc
+first 3, last, 3, res 33
+11790
+str 5lrtmbnjone61
+first 5, last, 1, res 51
+11841
+str xt2fiveeight63nsnpsix
+first 2, last, 3, res 23
+11864
+str 63onerrpeightsevenfive87
+first 6, last, 7, res 67
+11931
+str pccvdpml7sevensix4
+first 7, last, 4, res 74
+12005
+str 4vgsbfgsqfivebxhsscsjmseven9
+first 4, last, 9, res 49
+12054
+str kxbdbz9gbkoneone
+first 9, last, 9, res 99
+12153
+str eightnine5616mkrfive
+first 5, last, 6, res 56
+12209
+str 4two6dxbhbkfivesix
+first 4, last, 6, res 46
+12255
+str 1fnlnm5
+first 1, last, 5, res 15
+12270
+str 1lvjskxjqthree
+first 1, last, 1, res 11
+12281
+str 4vqchvclmxjfourseven1seven7
+first 4, last, 7, res 47
+12328
+str nqkftljdnine6five7msjktkjpc2dqfkxffive
+first 6, last, 2, res 62
+12390
+str sixthreenineeighteight9ldbjkbtwohprspl
+first 9, last, 9, res 99
+12489
+str sevenptqrzckkc824
+first 8, last, 4, res 84
+12573
+str 8eightljnbhs
+first 8, last, 8, res 88
+12661
+str seven1plssbsfst53fnnine7two
+first 1, last, 7, res 17
+12678
+str 4ninefivenrhbzr
+first 4, last, 4, res 44
+12722
+str 2seven8dmblvb7
+first 2, last, 7, res 27
+12749
+str cjhdnklghxkbln1lxpklfg
+first 1, last, 1, res 11
+12760
+str mqb9
+first 9, last, 9, res 99
+12859
+str fourthree72zxbnvnmthreeeightsevennj
+first 7, last, 2, res 72
+12931
+str fourhqkjzbhxncj21sevenfhvj2
+first 2, last, 2, res 22
+12953
+str 6fivem1kxmlrsr25
+first 6, last, 5, res 65
+13018
+str eight3xhcrzv2
+first 3, last, 2, res 32
+13050
+str 9tjfbrqcxlfivexljvhdclgeight
+first 9, last, 9, res 99
+13149
+str scnldbgone25
+first 2, last, 5, res 25
+13174
+str 1fiveqzgnkhbfjeight84nine2lqsfltq
+first 1, last, 2, res 12
+13186
+str gh9
+first 9, last, 9, res 99
+13285
+str bgnqcpf7oneninezvtppnx
+first 7, last, 7, res 77
+13362
+str dzkbtnzhdf8cbkhvbmvctqmseven3
+first 8, last, 3, res 83
+13445
+str 7168d63ffgdbtq
+first 7, last, 3, res 73
+13518
+str vcpzgzgmpnone59
+first 5, last, 9, res 59
+13577
+str threerkkljpxk2frn
+first 2, last, 2, res 22
+13599
+str 6txtrc4gbsjctkvdzsixgfeighteight
+first 6, last, 4, res 64
+13663
+str five767dvjmrfgksx8threeseven
+first 7, last, 8, res 78
+13741
+str 5xkqkjfjgksflfcqrgrhmfxflscsxsrdhxgpfivetxgpzzlfzj1
+first 5, last, 1, res 51
+13792
+str pdhgxrprllptt4grbqthree
+first 4, last, 4, res 44
+13836
+str 7jcfcggtqhmthfhbfflxpxvhfkzlmk9dmkkptt
+first 7, last, 9, res 79
+13915
+str onefvhpvsnvhc7eight38two3
+first 7, last, 3, res 73
+13988
+str hhhklssktl7
+first 7, last, 7, res 77
+14065
+str mmjtwo1qsnhklfmsj34qsix
+first 1, last, 4, res 14
+14079
+str qtnml3cvkxdzps2xlkkqr
+first 3, last, 2, res 32
+14111
+str 3four84eightfr9
+first 3, last, 9, res 39
+14150
+str fivetzr5cjphldseventhree7dlpfjgrzlxbsp
+first 5, last, 7, res 57
+14207
+str onemfbkvqjf9zjb
+first 9, last, 9, res 99
+14306
+str kdeightwonine67vpsrkskqzdrqzsnhtlg
+first 6, last, 7, res 67
+14373
+str cffrmzq4pqhmqszhrmfourthreeseven
+first 4, last, 4, res 44
+14417
+str onesixdzskhfk5fourf9vdnrthvsgj
+first 5, last, 9, res 59
+14476
+str lk297onesixrsqxfzbxkzlqzsh
+first 2, last, 7, res 27
+14503
+str 7tdhclszrfiverncbkg6sixseventwoseven
+first 7, last, 6, res 76
+14579
+str fournine473
+first 4, last, 3, res 43
+14622
+str 79two
+first 7, last, 9, res 79
+14701
+str m33
+first 3, last, 3, res 33
+14734
+str fiveseven3seven
+first 3, last, 3, res 33
+14767
+str 8pjfjhczrhmjqeight1q
+first 8, last, 1, res 81
+14848
+str 1eightfone73one1nine
+first 1, last, 1, res 11
+14859
+str one96nine
+first 9, last, 6, res 96
+14955
+str hxp1
+first 1, last, 1, res 11
+14966
+str twohrxxsxn5sddmfiveeighttwo
+first 5, last, 5, res 55
+15021
+str 5scfnine
+first 5, last, 5, res 55
+15076
+str lrtfjckqxbsixtcdlbpcvk9bzjpmxrtf
+first 9, last, 9, res 99
+15175
+str one24twofmtptbtkb8ninedgdkht
+first 2, last, 8, res 28
+15203
+str lkcmjplnmsgvppdj2hbld8five9eight
+first 2, last, 9, res 29
+15232
+str 24twohrbmznkpjvsixeightsevenfour7
+first 2, last, 7, res 27
+15259
+str hdmsddfzcpk2cxvssqszgnlnnzhnxfourrjmmsvvfhnbh
+first 2, last, 2, res 22
+15281
+str gbnvjxhnseven7mtxspmbzxfivefour
+first 7, last, 7, res 77
+15358
+str fivexgfk7gvtdhbxmlrmmlcfhkt
+first 7, last, 7, res 77
+15435
+str 59one62ktbvcvh
+first 5, last, 2, res 52
+15487
+str tdsplthreeninelqgblffvvxxqbzt7z
+first 7, last, 7, res 77
+15564
+str kxsncninefive7vhjgzms
+first 7, last, 7, res 77
+15641
+str 47sixztddvhdg9ndsix
+first 4, last, 9, res 49
+15690
+str 59foursevenlhstfour6nfcmmtmnhf
+first 5, last, 6, res 56
+15746
+str 7rxv1gbfmlkjgqqgnsixfournine
+first 7, last, 1, res 71
+15817
+str 9threeqtthlzktpsp
+first 9, last, 9, res 99
+15916
+str stqsixthreejhhtgrthdxxvd5zmhxtczn
+first 5, last, 5, res 55
+15971
+str xjeightsixfxkqtmbkmg1trgbxkcfour
+first 1, last, 1, res 11
+15982
+str hcgzkblceighttwozmcpbmfpnck9bnineeightwoml
+first 9, last, 9, res 99
+16081
+str rksvnrz926
+first 9, last, 6, res 96
+16177
+str qtvqdjfpllfourfiveoneeight6
+first 6, last, 6, res 66
+16243
+str nineeight6six
+first 6, last, 6, res 66
+16309
+str sevenfournine4
+first 4, last, 4, res 44
+16353
+str seven78569tbqsixtwonegs
+first 7, last, 9, res 79
+16432
+str mnphqplqcone9fivefour
+first 9, last, 9, res 99
+16531
+str 4sevenzlonekfqjlznshbnone1
+first 4, last, 1, res 41
+16572
+str cxncdtsbeightfour1tkfrqpffour
+first 1, last, 1, res 11
+16583
+str qbjdcg5fivefive5cljnlm
+first 5, last, 5, res 55
+16638
+str rqcvltskbd5tsftldxvsdtconekhpkkxmzt9
+first 5, last, 9, res 59
+16697
+str bggdtwokdjnbvzlltpdsix94fb
+first 9, last, 4, res 94
+16791
+str 1twocgqfzqxz
+first 1, last, 1, res 11
+16802
+str vn3
+first 3, last, 3, res 33
+16835
+str scsprhdlngkldcvpndnxfour1sevenqpsvtpf
+first 1, last, 1, res 11
+16846
+str 7tjngkcsgkdeightzld3
+first 7, last, 3, res 73
+16919
+str szgtdtdntonefournine4
+first 4, last, 4, res 44
+16963
+str 5twovxmrnh615eight1six
+first 5, last, 1, res 51
+17014
+str 4fourxmdcrxlzvfive
+first 4, last, 4, res 44
+17058
+str zsljdjhqhffour1tpzronefive9nvvpnvtd
+first 1, last, 9, res 19
+17077
+str sevenone2threethreekpkcmcx12
+first 2, last, 2, res 22
+17099
+str qfgkxthreeccgbmkmhkrvqcfnine792
+first 7, last, 2, res 72
+17171
+str l8
+first 8, last, 8, res 88
+17259
+str nxxjzxtlqpvgvbrpdlgdx2cvm8twofiveeight
+first 2, last, 8, res 28
+17287
+str 93jhshjrkqg4gxldkfour1nine
+first 9, last, 1, res 91
+17378
+str 6three9four
+first 6, last, 9, res 69
+17447
+str 2sevengqrndvxn79six
+first 2, last, 9, res 29
+17476
+str 5pglrsbjeight3threeeight
+first 5, last, 3, res 53
+17529
+str fourhjrxhpt17threetwo
+first 1, last, 7, res 17
+17546
+str one8sevendbtgjj
+first 8, last, 8, res 88
+17634
+str 8two23xmhjbmvqj
+first 8, last, 3, res 83
+17717
+str ftwonine32dlntmfive
+first 3, last, 2, res 32
+17749
+str fcmqrpxjjgpcr79vnj
+first 7, last, 9, res 79
+17828
+str tmckzseventdtgmtnnvztpvrone91five
+first 9, last, 1, res 91
+17919
+str sixone3
+first 3, last, 3, res 33
+17952
+str 6onegjmgqmhrszhplpvrv
+first 6, last, 6, res 66
+18018
+str eightcqkr869fivesix
+first 8, last, 9, res 89
+18107
+str seveneightnine7threethreeljmgsfl2tpqxgsx
+first 7, last, 2, res 72
+18179
+str 63threeseven
+first 6, last, 3, res 63
+18242
+str onetmgjzjzb1rmnmssix
+first 1, last, 1, res 11
+18253
+str gcbhhttn8seven5pstttjhdbxnmjr5
+first 8, last, 5, res 85
+18338
+str 85mpmvntfk1sqzgxrjpfd7
+first 8, last, 7, res 87
+18425
+str onethree3fourtfonefive7six
+first 3, last, 7, res 37
+18462
+str 1two2ltnfive94one
+first 1, last, 4, res 14
+18476
+str fourfivefiveninenfzrrgh94
+first 9, last, 4, res 94
+18570
+str two54mkstwo1ninezhrvsix
+first 5, last, 1, res 51
+18621
+str jdpnptxghs8
+first 8, last, 8, res 88
+18709
+str xdbsdttwo4cjlkrzfkqsmmbpdfh
+first 4, last, 4, res 44
+18753
+str one1p1
+first 1, last, 1, res 11
+18764
+str 8jvxplsts2zmlmfczplv2
+first 8, last, 2, res 82
+18846
+str pbgccdhchr6xdqljs
+first 6, last, 6, res 66
+18912
+str tqxnrsvthreenfsrgkqhpq995kdgjtxcdvf
+first 9, last, 5, res 95
+19007
+str q9xbzbjvtmkq1
+first 9, last, 1, res 91
+19098
+str ttnpknthree9
+first 9, last, 9, res 99
+19197
+str six18qhjd3sixhs12
+first 1, last, 2, res 12
+19209
+str 1lntlcrf68sfhzsix9onermrsvbmzpz
+first 1, last, 9, res 19
+19228
+str hhzjdhnsdb2
+first 2, last, 2, res 22
+19250
+str nlgdm34five4fgqlpsfourqmdjqrklrrk
+first 3, last, 4, res 34
+19284
+str seven4splbgjscvrnsrslsixseven2pc
+first 4, last, 2, res 42
+19326
+str 1dlx3eightsixeightseventhree
+first 1, last, 3, res 13
+19339
+str three2nine2chsvtghjfgjfn6
+first 2, last, 6, res 26
+19365
+str 8mpvxxkqlvsixqeightsddh
+first 8, last, 8, res 88
+19453
+str four26kjt
+first 2, last, 6, res 26
+19479
+str 2fivejrnpfbfivefourgrhdcngfvkxqrl5
+first 2, last, 5, res 25
+19504
+str 3hp1
+first 3, last, 1, res 31
+19535
+str mblqhptdfdfngmmdlfjhp3kdpsb1
+first 3, last, 1, res 31
+19566
+str nine19seven95q
+first 1, last, 5, res 15
+19581
+str 97one
+first 9, last, 7, res 97
+19678
+str lnbvtnvtnsevenfivefivethree2xjlsl
+first 2, last, 2, res 22
+19700
+str ctglrzjrcvkdjjcmxxkv5sevensixsnl
+first 5, last, 5, res 55
+19755
+str nineonetrpxnljthreefourninemrnzbbqjvbseven1
+first 1, last, 1, res 11
+19766
+str fourseven49khbvhbxqvzhthree
+first 4, last, 9, res 49
+19815
+str 961lsvnhdgb
+first 9, last, 1, res 91
+19906
+str seven284mpdlsnshvgbvxp36
+first 2, last, 6, res 26
+19932
+str 36ghthreefourc
+first 3, last, 6, res 36
+19968
+str four67six5bbdlzcg19
+first 6, last, 9, res 69
+20037
+str 1oneone
+first 1, last, 1, res 11
+20048
+str 6sv94fourlrztncb8eight8
+first 6, last, 8, res 68
+20116
+str twoggfmfjfbx54eight8five
+first 5, last, 8, res 58
+20174
+str fivejltzvxjgp1three1nzrgkrplssix8
+first 1, last, 8, res 18
+20192
+str cdrbdxxdcfivekpnxplf5
+first 5, last, 5, res 55
+20247
+str 3fourlxnp
+first 3, last, 3, res 33
+20280
+str 4hrkjqvfsch9szkfknmkkksevenrbsjcpph
+first 4, last, 9, res 49
+20329
+str fivetwo6xjtnvns3threejsx
+first 6, last, 3, res 63
+20392
+str 9bdljbzvgbbhtnnqnzthree81
+first 9, last, 1, res 91
+20483
+str 9rdvjnqqkr44
+first 9, last, 4, res 94
+20577
+str 3twoonetwo
+first 3, last, 3, res 33
+20610
+str 987bbxtq2seven
+first 9, last, 2, res 92
+20702
+str spvxkjpfive5gvqjfcsvd
+first 5, last, 5, res 55
+20757
+str 7jvmqd
+first 7, last, 7, res 77
+20834
+str dvhtwone7csrxb
+first 7, last, 7, res 77
+20911
+str mqfrq3xsixhpsz36hxns
+first 3, last, 6, res 36
+20947
+str 5glvgrrt
+first 5, last, 5, res 55
+21002
+str fivegtbfqqtsgmv2twoxpdvrph2
+first 2, last, 2, res 22
+21024
+str 8nine76xrvnnjzzlmqq53seven
+first 8, last, 3, res 83
+21107
+str dvv43eightsixsix
+first 4, last, 3, res 43
+21150
+str pshbmh8dpgdqnnb3jvc8dhstvf
+first 8, last, 8, res 88
+21238
+str sixsevenlscj84cnmk52
+first 8, last, 2, res 82
+21320
+str five158hczhzrnfour
+first 1, last, 8, res 18
+21338
+str 1fiverbh49ninenine
+first 1, last, 9, res 19
+21357
+str kfkrltljjthree9
+first 9, last, 9, res 99
+21456
+str ts3seven
+first 3, last, 3, res 33
+21489
+str hbr2lqqkbdlsr
+first 2, last, 2, res 22
+21511
+str fourninehcvlfqqlmkfive876six
+first 8, last, 6, res 86
+21597
+str onechvhkvdtjsjd3threeqhgvgh1lpqrpzv
+first 3, last, 1, res 31
+21628
+str mlbvvlkhnl1twofvtlvccbf
+first 1, last, 1, res 11
+21639
+str fivexhnpqsixsix2onenine
+first 2, last, 2, res 22
+21661
+str sixhndnxt7fgjpljslsixthreehlxtqsgkrkthree
+first 7, last, 7, res 77
+21738
+str 6vjp2one
+first 6, last, 2, res 62
+21800
+str glhmqdplqqmdgtnssevenseven77onesrpjqppkqfnine
+first 7, last, 7, res 77
+21877
+str qqmvfmpsv7two1nine
+first 7, last, 1, res 71
+21948
+str 5lj
+first 5, last, 5, res 55
+22003
+str gndgkkcp5dzmczqmhsevensix3
+first 5, last, 3, res 53
+22056
+str eightsix82sztzxlnfvnnkhpj
+first 8, last, 2, res 82
+22138
+str hppn8seven61
+first 8, last, 1, res 81
+22219
+str five1oneightg
+first 1, last, 1, res 11
+22230
+str foureight7sixxrlscm
+first 7, last, 7, res 77
+22307
+str 6threeszvsnprccb
+first 6, last, 6, res 66
+22373
+str 8sevenlfttwo5two5
+first 8, last, 5, res 85
+22458
+str jxmzrgjcqq8bl
+first 8, last, 8, res 88
+22546
+str one67mpktrzzvnhnine66
+first 6, last, 6, res 66
+22612
+str cvgdvstltgpqg3tk6czjklgdfvsbxnthree
+first 3, last, 6, res 36
+22648
+str four4bphpmnineninervrpcsrbthree
+first 4, last, 4, res 44
+22692
+str rcsxjh93seventwosix9pnt4
+first 9, last, 4, res 94
+22786
+str onekcfmt1lqkrsvzjtwogdrkrnpchg99
+first 1, last, 9, res 19
+22805
+str phmhsxjvthree5four
+first 5, last, 5, res 55
+22860
+str 39eightfiveonefive
+first 3, last, 9, res 39
+22899
+str ninehsvgkvtcgj1
+first 1, last, 1, res 11
+22910
+str 4eight18three
+first 4, last, 8, res 48
+22958
+str 5tzgdpvkgq891knffnfourfour
+first 5, last, 1, res 51
+23009
+str 3sevenqlrzktpzm8hcseven9
+first 3, last, 9, res 39
+23048
+str onethree7eightszmllvone5xjxh
+first 7, last, 5, res 75
+23123
+str loneightnftmqbghjx397eightpmgndpgdldfoureight6
+first 3, last, 6, res 36
+23159
+str jeighthpfrlthree3mvjqvnkmctwo
+first 3, last, 3, res 33
+23192
+str jqtwone1onefiveninezdzfq8nine
+first 1, last, 8, res 18
+23210
+str 2mpbz
+first 2, last, 2, res 22
+23232
+str onesevenmftvrxrnrk779
+first 7, last, 9, res 79
+23311
+str gjqqnggshhnjsgttgtpbt93zsixpnl3
+first 9, last, 3, res 93
+23404
+str 5584gqninegxseven
+first 5, last, 4, res 54
+23458
+str 5qpqzztgrv9seven
+first 5, last, 9, res 59
+23517
+str three43vkfgqhn4
+first 4, last, 4, res 44
+23561
+str 56fivegkcnhtn11
+first 5, last, 1, res 51
+23612
+str 3eightghrgdqspgjtl1fzbmsneightzmzvbsl
+first 3, last, 1, res 31
+23643
+str sixnjrl2bshpmg
+first 2, last, 2, res 22
+23665
+str 54fivedpxfmreight
+first 5, last, 4, res 54
+23719
+str 3four5pnlnstthzfjtfv
+first 3, last, 5, res 35
+23754
+str onenine7
+first 7, last, 7, res 77
+23831
+str fivethree5eight
+first 5, last, 5, res 55
+23886
+str 2six4xmgxtml
+first 2, last, 4, res 24
+23910
+str one25eightfourthreefglftkh8
+first 2, last, 8, res 28
+23938
+str rz6ninethree
+first 6, last, 6, res 66
+24004
+str qbrthree46eight
+first 4, last, 6, res 46
+24050
+str vldeight6nine
+first 6, last, 6, res 66
+24116
+str cshoneightthree9rdlh
+first 9, last, 9, res 99
+24215
+str fivehbplzxnhnineeightseven32
+first 3, last, 2, res 32
+24247
+str l2lsmkone
+first 2, last, 2, res 22
+24269
+str bqlt6eight
+first 6, last, 6, res 66
+24335
+str xv3two88tspdtsh
+first 3, last, 8, res 38
+24373
+str fourxlcttfqhtp8
+first 8, last, 8, res 88
+24461
+str eight8eightnlfbtmh
+first 8, last, 8, res 88
+24549
+str 8sevenrmvdninefdeight6onedfmkhvklgg
+first 8, last, 6, res 86
+24635
+str six1ninebvgfbsjkstksbqlxsqxdqtsbmtseven5
+first 1, last, 5, res 15
+24650
+str 7fourgbpqm477threeonetwo
+first 7, last, 7, res 77
+24727
+str five18
+first 1, last, 8, res 18
+24745
+str twotqkjneight516five
+first 5, last, 6, res 56
+24801
+str xbsixzvkjlzfx2
+first 2, last, 2, res 22
+24823
+str qeightwolrqnbgqlbgseven3two6
+first 3, last, 6, res 36
+24859
+str 6mjsmmbdsninegkcd3jzpcrjlnm
+first 6, last, 3, res 63
+24922
+str 7kzcnrfonetwoeightxc46mrtmb
+first 7, last, 6, res 76
+24998
+str 55eightsevenfivejmjfour
+first 5, last, 5, res 55
+25053
+str l6two5
+first 6, last, 5, res 65
+25118
+str mgbcclxkpdjdfivemsgkqpfpcbjjpxrs1sevenjzctftj
+first 1, last, 1, res 11
+25129
+str 9tmvngsthreenrzplhrbdknine3seven6
+first 9, last, 6, res 96
+25225
+str one2dhkmpctvhf
+first 2, last, 2, res 22
+25247
+str xfhqlkn6qdntslzkmgqhgststmzp
+first 6, last, 6, res 66
+25313
+str brbjvmjsix3ltktnldrjv
+first 3, last, 3, res 33
+25346
+str eight31cmmrrpvtr4n
+first 3, last, 4, res 34
+25380
+str 3twofb
+first 3, last, 3, res 33
+25413
+str 63g
+first 6, last, 3, res 63
+25476
+str cdgxslxkhxeight5one
+first 5, last, 5, res 55
+25531
+str 7zxvlcsdpvsk6seven54nine
+first 7, last, 4, res 74
+25605
+str five95nbpthreemtqhgdbtdqhbkhpsdndjgvmcseven
+first 9, last, 5, res 95
+25700
+str fgh75
+first 7, last, 5, res 75
+25775
+str five78sevenmvr1kgnzpfr
+first 7, last, 1, res 71
+25846
+str hkszszgkr414vknlf
+first 4, last, 4, res 44
+25890
+str nrxcmxjvftwoqrfvbtgktfclc69ninefx
+first 6, last, 9, res 69
+25959
+str sixseven6onethreefourzksnp7six
+first 6, last, 7, res 67
+26026
+str eightsevenjdpxmg4tvtonem17
+first 4, last, 7, res 47
+26073
+str 9twothreefour
+first 9, last, 9, res 99
+26172
+str kxmrfjpdhqxzqsf84
+first 8, last, 4, res 84
+26256
+str 46nbsxgphvptlsixcsixfkrlnh4
+first 4, last, 4, res 44
+26300
+str 4pn27gtt4eight1
+first 4, last, 1, res 41
+26341
+str three26fqnine
+first 2, last, 6, res 26
+26367
+str 2sixpnineshmsbxj6
+first 2, last, 6, res 26
+26393
+str fr9gmmqhzdpcdjqklcjsqg1
+first 9, last, 1, res 91
+26484
+str hheightwo6threesdnqvl87
+first 6, last, 7, res 67
+26551
+str 34fivedkjxqcqtvhfour2
+first 3, last, 2, res 32
+26583
+str pgdzz39qmsvmfvhsevenlfgeightwop
+first 3, last, 9, res 39
+26622
+str 7sevendjmzkksfourfive
+first 7, last, 7, res 77
+26699
+str nine7fourtwozlpvr1xgxddbfcqgcdh9
+first 7, last, 9, res 79
+26778
+str 2nzts1cgb5ninevnlj
+first 2, last, 5, res 25
+26803
+str four8twozvjnbmnbpssixsevenvbeightwovbj
+first 8, last, 8, res 88
+26891
+str four3one8rhbvtnbleightwokd
+first 3, last, 8, res 38
+26929
+str eightthreesix5
+first 5, last, 5, res 55
+26984
+str 7dggrvmlfourfive
+first 7, last, 7, res 77
+27061
+str gskldhhphjvgqnfgxdlthreemp27bjhgshzdb
+first 2, last, 7, res 27
+27088
+str ghxvcdveight1
+first 1, last, 1, res 11
+27099
+str fourtpxlc6zcrgbhpdrzfrsmsqpkjmfgjd4two
+first 6, last, 4, res 64
+27163
+str fb79c19
+first 7, last, 9, res 79
+27242
+str fivezskzmvbdfour4sixbnkbntrkjvnineeightfive
+first 4, last, 4, res 44
+27286
+str qbfxdktjq2rddsmgnz8pnpgmph7eight9
+first 2, last, 9, res 29
+27315
+str 664two
+first 6, last, 4, res 64
+27379
+str seven6bkdhbfmvsx1
+first 6, last, 1, res 61
+27440
+str 6szgdfhchfivefive
+first 6, last, 6, res 66
+27506
+str 8thkcseven8threeeightbqtwo
+first 8, last, 8, res 88
+27594
+str 3n97jvtxqbsks2bcrbkhzgh1
+first 3, last, 1, res 31
+27625
+str fqxktzrczzlh8five
+first 8, last, 8, res 88
+27713
+str 2mhrfx
+first 2, last, 2, res 22
+27735
+str pmtwonenine573fivetwo1sixfive
+first 5, last, 1, res 51
+27786
+str hzhzmrp69six
+first 6, last, 9, res 69
+27855
+str 2bxxmszhfknonexgmfmsx24three
+first 2, last, 4, res 24
+27879
+str 1four6zsbpgblxbh5six2
+first 1, last, 2, res 12
+27891
+str 7seven6six3
+first 7, last, 3, res 73
+27964
+str sixhlqckdhkgkxmd9twoone4six
+first 9, last, 4, res 94
+28058
+str onecrgdchztlzqdljd28five
+first 2, last, 8, res 28
+28086
+str xrsp8sixpvrprcnzchnxthree9xjqsltz4
+first 8, last, 4, res 84
+28170
+str gqtc91
+first 9, last, 1, res 91
+28261
+str 5twoone14eight6fsnshplkrh
+first 5, last, 6, res 56
+28317
+str jbhlnvgtqgjhzzh6kxjnn297qqqhxtgl
+first 6, last, 7, res 67
+28384
+str 3fivellgjzxvg7bcsmvkdqtwosevenrkjbjxk
+first 3, last, 7, res 37
+28421
+str jcxjvsbpl863xvjszreightzjqtjlshg
+first 8, last, 3, res 83
+28504
+str twogdvrqfxplfour7
+first 7, last, 7, res 77
+28581
+str lgzmnhtxdrc6fivefive6eightsix
+first 6, last, 6, res 66
+28647
+str seven6ntjgjjkcsninebkxgqmrpcs5
+first 6, last, 5, res 65
+28712
+str fchnl7fournine9
+first 7, last, 9, res 79
+28791
+str snzheight8fourfourfiveonefour
+first 8, last, 8, res 88
+28879
+str xpkoneight6qbh1sllfvsnkfzffhdfourfznkt
+first 6, last, 1, res 61
+28940
+str 2tctninesevenfour4xt
+first 2, last, 4, res 24
+28964
+str two18bjtqjkjcjrcmlpjdlbdkfm
+first 1, last, 8, res 18
+28982
+str 5ninesix484tbjzds9
+first 5, last, 9, res 59
+29041
+str vmtffvjjhone5six983three4
+first 5, last, 4, res 54
+29095
+str 18nineonetvmkbgqgblhn18
+first 1, last, 8, res 18
+29113
+str 6five92eight6
+first 6, last, 6, res 66
+29179
+str bvhgclm4mq1163one1
+first 4, last, 1, res 41
+29220
+str hztxmgqt9three7hvmj
+first 9, last, 7, res 97
+29317
+str 8jcsbhxlxfhld2jbrrqlsix
+first 8, last, 2, res 82
+29399
+str 9nsgz
+first 9, last, 9, res 99
+29498
+str 88three1xoneighth
+first 8, last, 1, res 81
+29579
+str htrnrgxvl84chsvpdf1eight
+first 8, last, 1, res 81
+29660
+str grxncx4
+first 4, last, 4, res 44
+29704
+str fourrqp49fiveseven
+first 4, last, 9, res 49
+29753
+str 65five
+first 6, last, 5, res 65
+29818
+str two3prvpvkz4xndcppzfournine
+first 3, last, 4, res 34
+29852
+str 5srrpfjgztwo3lnvsgkm
+first 5, last, 3, res 53
+29905
+str five5bbcntvhmxmh
+first 5, last, 5, res 55
+29960
+str vfctcfrhvmdpldlklpcjkthree9threefour
+first 9, last, 9, res 99
+30059
+str 9seven3
+first 9, last, 3, res 93
+30152
+str fivedkqqqzl3rjtdsdkjpxm7three1
+first 3, last, 1, res 31
+30183
+str twotwo59fivesix
+first 5, last, 9, res 59
+30242
+str sixthree9two36threehfrshhtnine
+first 9, last, 6, res 96
+30338
+str eight1bzthreethreefourgcvvjr
+first 1, last, 1, res 11
+30349
+str pqfzd5gqpvqtkrhzcsphnmtztwojmfpjsix
+first 5, last, 5, res 55
+30404
+str 1qstrvgtqb393four
+first 1, last, 3, res 13
+30417
+str 2eightoneightt
+first 2, last, 2, res 22
+30439
+str six4five9hzc
+first 4, last, 9, res 49
+30488
+str hvbjkkhnqg1sm5131eight
+first 1, last, 1, res 11
+30499
+str 9sixtwo
+first 9, last, 9, res 99
+30598
+str 2fivektvkhpfourtwoonedfrjqcpbx8psp
+first 2, last, 8, res 28
+30626
+str nineonetjfzrvx5xrhscvlzzonesixhdktzvjsr
+first 5, last, 5, res 55
+30681
+str 2eight3rcjheight67bmktvnqltv
+first 2, last, 7, res 27
+30708
+str jkzpv4442ninelgxnrfxhfive
+first 4, last, 2, res 42
+30750
+str rnsblh8125
+first 8, last, 5, res 85
+30835
+str zpmprktv3
+first 3, last, 3, res 33
+30868
+str 9four4vqzceight5eighttwo
+first 9, last, 5, res 95
+30963
+str rgknqkfsj6dh1m
+first 6, last, 1, res 61
+31024
+str 7kdkxzqbltvhthree
+first 7, last, 7, res 77
+31101
+str lsdeightwod14three67
+first 1, last, 7, res 17
+31118
+str 5psxnsnr9nine
+first 5, last, 9, res 59
+31177
+str sixf2
+first 2, last, 2, res 22
+31199
+str 9six1fourxrnpqtbsix7seven
+first 9, last, 7, res 97
+31296
+str eightninespmlponejflmrndkm7fourbvhfour
+first 7, last, 7, res 77
+31373
+str spfkmffoureightzjvxnfjffthree7threem
+first 7, last, 7, res 77
+31450
+str twotwo4twoffqszvhkqlsxzllrghdhfgbdtxphs
+first 4, last, 4, res 44
+31494
+str 314one4seven
+first 3, last, 4, res 34
+31528
+str fourninetgbjnphflcnpkdkxnine4fiveglkdq
+first 4, last, 4, res 44
+31572
+str four2lkd52
+first 2, last, 2, res 22
+31594
+str 456
+first 4, last, 6, res 46
+31640
+str lfoneeightrkgq99kjhrclcgdnc
+first 9, last, 9, res 99
+31739
+str 8qsqsl32
+first 8, last, 2, res 82
+31821
+str qpnpmh1four21sixqqsix5
+first 1, last, 5, res 15
+31836
+str jbrxttmncbtbkjpm7fbkkxc3gkjplp
+first 7, last, 3, res 73
+31909
+str 5two62ppczhpjct
+first 5, last, 2, res 52
+31961
+str leightqmcmxzd45vztlfcvvv
+first 4, last, 5, res 45
+32006
+str vnntzgvjfl1ksixthreevxchkmckceightone7
+first 1, last, 7, res 17
+32023
+str 3two7sixeight
+first 3, last, 7, res 37
+32060
+str 6hxgjm
+first 6, last, 6, res 66
+32126
+str 4five8
+first 4, last, 8, res 48
+32174
+str mbcbgvrgzxclvkkv1
+first 1, last, 1, res 11
+32185
+str four3plnl
+first 3, last, 3, res 33
+32218
+str 39ndbkdkddh5seven7kqtsg1
+first 3, last, 1, res 31
+32249
+str threebmqbd87
+first 8, last, 7, res 87
+32336
+str 1fivenineninect9
+first 1, last, 9, res 19
+32355
+str one4seven45
+first 4, last, 5, res 45
+32400
+str gdh5stxjfzlgcbfivevgn5
+first 5, last, 5, res 55
+32455
+str 3qonexxzv275three
+first 3, last, 5, res 35
+32490
+str dphbjmbbeight6
+first 6, last, 6, res 66
+32556
+str m13vffxq9
+first 1, last, 9, res 19
+32575
+str four9threefoureight
+first 9, last, 9, res 99
+32674
+str qjkcczzgrnone9threetwodhhfzpssgone4
+first 9, last, 4, res 94
+32768
+str htrsqgmmnk4
+first 4, last, 4, res 44
+32812
+str jdrkr23
+first 2, last, 3, res 23
+32835
+str vxeight6k1
+first 6, last, 1, res 61
+32896
+str 5rdhjgpkxsevenfour583
+first 5, last, 3, res 53
+32949
+str 8ninepfddonesixthreepcgdgkrk
+first 8, last, 8, res 88
+33037
+str bxtddhs31fivefourbpqfournrnqb
+first 3, last, 1, res 31
+33068
+str rmdpmsbtsdsrdxseven93foursix9
+first 9, last, 9, res 99
+33167
+str 8cn
+first 8, last, 8, res 88
+33255
+str bg4nh
+first 4, last, 4, res 44
+33299
+str foursevengkmvgqlncllqbklrntwo7
+first 7, last, 7, res 77
+33376
+str 4twotwo62
+first 4, last, 2, res 42
+33418
+str bdsmrsone2sixonefsbsrkprbfthreethree8oneightpsv
+first 2, last, 8, res 28
+33446
+str 4sevenfnbldqcp99
+first 4, last, 9, res 49
+33495
+str 9twoxvbqpktrqglhrfnine
+first 9, last, 9, res 99
+33594
+str sxztjcg3
+first 3, last, 3, res 33
+33627
+str bgzslddbll5kzbkxgrld
+first 5, last, 5, res 55
+33682
+str 7fivefxhggjvgcmqbppgffmfive
+first 7, last, 7, res 77
+33759
+str 8three6nmsbsbzz
+first 8, last, 6, res 86
+33845
+str sixcrznp2threevqrszfivefxnfrcq
+first 2, last, 2, res 22
+33867
+str 5mggpqlmlxmljvmktv1qpbllrfccgrzlone
+first 5, last, 1, res 51
+33918
+str fjktnlxgxjztzxc37
+first 3, last, 7, res 37
+33955
+str 8chhbninekmrbs
+first 8, last, 8, res 88
+34043
+str eightgdtsgqzqdthreeeight2xvdrckvnr7xdgjtdzsix
+first 2, last, 7, res 27
+34070
+str mq1lxdb2bsztdlfh814three
+first 1, last, 4, res 14
+34084
+str 761eightkxrnjzhzfive
+first 7, last, 1, res 71
+34155
+str groneight3
+first 3, last, 3, res 33
+34188
+str 99cbcbgkjtgjsevenbzp4ninexbxgpb
+first 9, last, 4, res 94
+34282
+str 1one23one2
+first 1, last, 2, res 12
+34294
+str 425five59jqxbmjjtwoneqp
+first 4, last, 9, res 49
+34343
+str eight44eightrggmgxgmr
+first 4, last, 4, res 44
+34387
+str g1
+first 1, last, 1, res 11
+34398
+str 9tbvsdgcz
+first 9, last, 9, res 99
+34497
+str jhfmgxmsix626oneeight
+first 6, last, 6, res 66
+34563
+str gzf9hjz7lfour2
+first 9, last, 2, res 92
+34655
+str three8seventhree7threekgrpkrcxk
+first 8, last, 7, res 87
+34742
+str m2xpkpfour
+first 2, last, 2, res 22
+34764
+str 2sbqj
+first 2, last, 2, res 22
+34786
+str 177plqzcbj
+first 1, last, 7, res 17
+34803
+str qlsvnrqqbpcshmkj55
+first 5, last, 5, res 55
+34858
+str fsszprone5
+first 5, last, 5, res 55
+34913
+str 9twokpxrxrjnbqhxbs
+first 9, last, 9, res 99
+35012
+str jc26
+first 2, last, 6, res 26
+35038
+str eightczbvzdkb29dslztrgdm9eightbv
+first 2, last, 9, res 29
+35067
+str vtlgfh2kxtchmonebr986
+first 2, last, 6, res 26
+35093
+str 6two4eight
+first 6, last, 4, res 64
+35157
+str 52seven
+first 5, last, 2, res 52
+35209
+str fourtvfqghltnrngbzbrkpshjhseven8foursixnkpbtf
+first 8, last, 8, res 88
+35297
+str zndgjjnctljjvfkz6
+first 6, last, 6, res 66
+35363
+str 7six3
+first 7, last, 3, res 73
+35436
+str tqhgddbrrgjzh8ct231four7
+first 8, last, 7, res 87
+35523
+str 6pdjtvjqfzmrdqninefourdrtndvxtfour
+first 6, last, 6, res 66
+35589
+str twoflzcgtwojvnhkqpvd4374
+first 4, last, 4, res 44
+35633
+str 47sixthree
+first 4, last, 7, res 47
+35680
+str 9threenine8
+first 9, last, 8, res 98
+35778
+str sevenmmndnbnvstwo96sixlbddllbq5
+first 9, last, 5, res 95
+35873
+str seventhreeone2fourrbzsixthree
+first 2, last, 2, res 22
+35895
+str gstzhlnvxrfour6seven4ncktrk8
+first 6, last, 8, res 68
+35963
+str 43jzhf3
+first 4, last, 3, res 43
+36006
+str twosixfccseven63
+first 6, last, 3, res 63
+36069
+str tlkksdsbgbqbzmjtx7fivetcvzbpggmtwotwonpknb
+first 7, last, 7, res 77
+36146
+str ninezq7xvsmlqvfourclznkcqnbmjone
+first 7, last, 7, res 77
+36223
+str kbns2kjpfdrp
+first 2, last, 2, res 22
+36245
+str 7pntsfdpjq7rzlqvnine638
+first 7, last, 8, res 78
+36323
+str seven7fourfour2xzxnfzhlmb
+first 7, last, 2, res 72
+36395
+str 23sixsixbqzh
+first 2, last, 3, res 23
+36418
+str one4twofivehmonensf
+first 4, last, 4, res 44
+36462
+str fourfivefivejkdmbgfmdrnkqk6two7bnjv
+first 6, last, 7, res 67
+36529
+str 784v1eightwog
+first 7, last, 1, res 71
+36600
+str 3five859five729
+first 3, last, 9, res 39
+36639
+str gshxpzrnr1gqrpcfourfive
+first 1, last, 1, res 11
+36650
+str 29sixthreesmnd3sixpdsjfour
+first 2, last, 3, res 23
+36673
+str v4
+first 4, last, 4, res 44
+36717
+str 47xkjdlcnvxpfddz
+first 4, last, 7, res 47
+36764
+str nznnmq7jbfngrjzp
+first 7, last, 7, res 77
+36841
+str twofive1ldjf
+first 1, last, 1, res 11
+36852
+str nshmztnmgeightthree2two
+first 2, last, 2, res 22
+36874
+str 95gffourthree
+first 9, last, 5, res 95
+36969
+str lcqfncp29hnx
+first 2, last, 9, res 29
+36998
+str 4fourzpzcbtqkkr2jd9seventwo1
+first 4, last, 1, res 41
+37039
+str ldqv2vpzjbsrqfdlngcgone5
+first 2, last, 5, res 25
+37064
+str jhhkdvpzstx6
+first 6, last, 6, res 66
+37130
+str fivegnbqtrxknine2gfcfnine5nine
+first 2, last, 5, res 25
+37155
+str hcdcffvmgkdgfxbvkfkjjzh3
+first 3, last, 3, res 33
+37188
+str eight69eight
+first 6, last, 9, res 69
+37257
+str gmsqzqbrnvpsix5xjfchmsgsqmxm
+first 5, last, 5, res 55
+37312
+str one75six
+first 7, last, 5, res 75
+37387
+str 4zt78gldjsmllkkdrpjbxllhm5
+first 4, last, 5, res 45
+37432
+str onetwo8six
+first 8, last, 8, res 88
+37520
+str three3oneonenlvrxtwo
+first 3, last, 3, res 33
+37553
+str ninecldbktzkrkhxfknclmtvfhq8twofive8mrf
+first 8, last, 8, res 88
+37641
+str 88kzkdjfjqpbgdthree4
+first 8, last, 4, res 84
+37725
+str onefc4jljhhprfv8819
+first 4, last, 9, res 49
+37774
+str two9ninefzxgj2three13
+first 9, last, 3, res 93
+37867
+str xztwone33
+first 3, last, 3, res 33
+37900
+str 1fivevmppvshnsixmzxronesix
+first 1, last, 1, res 11
+37911
+str vd32
+first 3, last, 2, res 32
+37943
+str 323
+first 3, last, 3, res 33
+37976
+str six8zhtrllzqbgjsixtxmxdpbfd6
+first 8, last, 6, res 86
+38062
+str mone5mvzvxftqsbnktbdprllkjz7oneone
+first 5, last, 7, res 57
+38119
+str nine4one
+first 4, last, 4, res 44
+38163
+str threesixfjttrzrhr5five
+first 5, last, 5, res 55
+38218
+str eightnkzzmj4rzpzqseightsix1
+first 4, last, 1, res 41
+38259
+str zf2
+first 2, last, 2, res 22
+38281
+str geightldvlrdftnbtdrsv1qmcrrxtfp
+first 1, last, 1, res 11
+38292
+str zonetwol21j2
+first 2, last, 2, res 22
+38314
+str 8qmdfivejlrxmlvthree
+first 8, last, 8, res 88
+38402
+str seven395rtqnnbhd8chxjhp6
+first 3, last, 6, res 36
+38438
+str 21fourtprlhb5
+first 2, last, 5, res 25
+38463
+str fourcmztvmjdf1threexsthreehrfkzk
+first 1, last, 1, res 11
+38474
+str jrndnvpxdrvcqdjdhhnlnr594rblf4three
+first 5, last, 4, res 54
+38528
+str 5llzdsknms8518
+first 5, last, 8, res 58
+38586
+str 4feight4
+first 4, last, 4, res 44
+38630
+str six5hdhtwo42351
+first 5, last, 1, res 51
+38681
+str fvfxhkbthree16three3qh3n
+first 1, last, 3, res 13
+38694
+str 46zsjfjjfd55
+first 4, last, 5, res 45
+38739
+str sixoneonenrg5nine2
+first 5, last, 2, res 52
+38791
+str 3kxmmrzmsvtzqhpptwobzpqfbnjm
+first 3, last, 3, res 33
+38824
+str three4c9sevensevensix
+first 4, last, 9, res 49
+38873
+str bqfgzvpd198nmmkzttrpqjhzkd961
+first 1, last, 1, res 11
+38884
+str two699txkcpfcnsm5
+first 6, last, 5, res 65
+38949
+str 2fivez6
+first 2, last, 6, res 26
+38975
+str ldttwosrlhrczggq5
+first 5, last, 5, res 55
+39030
+str ttjhfmxmseven1bgsevencqstcnjppknine
+first 1, last, 1, res 11
+39041
+str kphtgssvmxvf4
+first 4, last, 4, res 44
+39085
+str 4nine1bpdhrp86sfppzgbmtwonepbz
+first 4, last, 6, res 46
+39131
+str eight7957seven
+first 7, last, 7, res 77
+39208
+str fourhjlrlptlz1one9oneeight4
+first 1, last, 4, res 14
+39222
+str 2onefivefourcqvhgbrbbfvssjlv4
+first 2, last, 4, res 24
+39246
+str thrjsvmgvlqfxjgfbfxxthree78xd
+first 7, last, 8, res 78
+39324
+str vrzfs9eightzsm6six
+first 9, last, 6, res 96
+39420
+str vjmdxth3
+first 3, last, 3, res 33
+39453
+str 4three1jmpnonesix3six6
+first 4, last, 6, res 46
+39499
+str vmkfmshtr7lmcqpdtpxfnineeighteightpqnxntkzhrffhq9
+first 7, last, 9, res 79
+39578
+str rzlpzxzlbshztwo3lrqkstvl
+first 3, last, 3, res 33
+39611
+str d8txxlfntwokdhhqfqj14
+first 8, last, 4, res 84
+39695
+str 1xttonexsqldqjrz
+first 1, last, 1, res 11
+39706
+str nrcsix698dgqhnnmvvxckg
+first 6, last, 8, res 68
+39774
+str 59fzdrczj
+first 5, last, 9, res 59
+39833
+str 52eightsix399
+first 5, last, 9, res 59
+39892
+str htsxqlninesix498
+first 4, last, 8, res 48
+39940
+str 1fivedsxccqxpc6zkcnhxknhbtljthree
+first 1, last, 6, res 16
+39956
+str 3fivetkff1
+first 3, last, 1, res 31
+39987
+str 3onegkl
+first 3, last, 3, res 33
+40020
+str one2sbtxp
+first 2, last, 2, res 22
+40042
+str 53gxcnvtkc4m8
+first 5, last, 8, res 58
+40100
+str 2sevenonetwopmhvjhhbtfivejtdbthmtmlzv
+first 2, last, 2, res 22
+40122
+str jrpnktwo6pvcckm
+first 6, last, 6, res 66
+40188
+str fiveeight9
+first 9, last, 9, res 99
+40287
+str 9217fivefoursixdvctqz
+first 9, last, 7, res 97
+40384
+str 1seven6five
+first 1, last, 6, res 16
+40400
+str 5trztdklnh5pbxhjkrbsrbkblrjfive
+first 5, last, 5, res 55
+40455
+str v9gsnbfive5438
+first 9, last, 8, res 98
+40553
+str 619ltnxszkfcgztmfrxgrgcbjfthreevcrxxthree
+first 6, last, 9, res 69
+40622
+str 2fourpcjshrql
+first 2, last, 2, res 22
+40644
+str hbmtblllp5fourfourjzkrvx
+first 5, last, 5, res 55
+40699
+str vngbbb79seven7
+first 7, last, 7, res 77
+40776
+str 92sixlzd4sevenfour
+first 9, last, 4, res 94
+40870
+str foursqmninenine2smplone
+first 2, last, 2, res 22
+40892
+str six4five
+first 4, last, 4, res 44
+40936
+str vjmztjchkc6four16two
+first 6, last, 6, res 66
+41002
+str 2lvhfkgxfivefive9
+first 2, last, 9, res 29
+41031
+str 45two8dhkpk
+first 4, last, 8, res 48
+41079
+str 84qfivexlclqpvtt9eight9eightoneightbk
+first 8, last, 9, res 89
+41168
+str 6hl5fgcmlpphmzsvbk
+first 6, last, 5, res 65
+41233
+str 4mtczfqfmk
+first 4, last, 4, res 44
+41277
+str threebkjb9
+first 9, last, 9, res 99
+41376
+str sxthree1foursix7four
+first 1, last, 7, res 17
+41393
+str 9one3lmthreetwo
+first 9, last, 3, res 93
+41486
+str 7six83lzqz9skgcnbzzg4two
+first 7, last, 4, res 74
+41560
+str jj94sevenvxrxdfourqtmpmtlnninedkvc
+first 9, last, 4, res 94
+41654
+str prmlkbzrkvzg52
+first 5, last, 2, res 52
+41706
+str lnxxmbsdgqgpjdzzsgxpjninengbgccmblv3
+first 3, last, 3, res 33
+41739
+str nine6lkrsdfdbnsixfive9
+first 6, last, 9, res 69
+41808
+str smphdfsixnceightktq36zs
+first 3, last, 6, res 36
+41844
+str zhmpseven9sixghjfpv
+first 9, last, 9, res 99
+41943
+str eightrmqmb5two
+first 5, last, 5, res 55
+41998
+str 5four4five38twoxbmthcbnine
+first 5, last, 8, res 58
+42056
+str 4vxvskjc83nsevenskgktml
+first 4, last, 3, res 43
+42099
+str three9three64five9
+first 9, last, 9, res 99
+42198
+str four4four
+first 4, last, 4, res 44
+42242
+str sixthreesix8nx8bpkkjntxpsixrhbbc
+first 8, last, 8, res 88
+42330
+str 6fiveeight28fourfour
+first 6, last, 8, res 68
+42398
+str 2s52foureightfour7
+first 2, last, 7, res 27
+42425
+str sevensix5vxfqr8pxncbhgd34
+first 5, last, 4, res 54
+42479
+str 2dssctwonec
+first 2, last, 2, res 22
+42501
+str rzcmjflfn8
+first 8, last, 8, res 88
+42589
+str ninempft7sdlcjzmgtjqpxgv
+first 7, last, 7, res 77
+42666
+str eightfoursix3lbmg1twoneqh
+first 3, last, 1, res 31
+42697
+str xxnvsnmslcrql1lxvqfourqtfjcstgnineqcnkmthl
+first 1, last, 1, res 11
+42708
+str qnx3lsmlpone
+first 3, last, 3, res 33
+42741
+str 49tvjptmdgvbftm
+first 4, last, 9, res 49
+42790
+str 49psqsbvph1cxvzzeightxgfnjqqg
+first 4, last, 1, res 41
+42831
+str three2three21
+first 2, last, 1, res 21
+42852
+str qhnfzrb4
+first 4, last, 4, res 44
+42896
+str 6gmxzdzfngpmxtnine
+first 6, last, 6, res 66
+42962
+str vnvqqbkmp5eightsixbreight
+first 5, last, 5, res 55
+43017
+str 2j78znzkdrjpdnkctwoseven
+first 2, last, 8, res 28
+43045
+str three3nine
+first 3, last, 3, res 33
+43078
+str gpqbqjqhscmzhcsix4xvdqn8threenhvr
+first 4, last, 8, res 48
+43126
+str fivesix12tkljpqdhf3mcsix
+first 1, last, 3, res 13
+43139
+str 1qvlrfcrmjvbr5threells
+first 1, last, 5, res 15
+43154
+str 9skprmslsfourkfxbjjtflfour3
+first 9, last, 3, res 93
+43247
+str jmvns4onek7gvmbs
+first 4, last, 7, res 47
+43294
+str nineone1qmdgdpfrqmvfrfj6three
+first 1, last, 6, res 16
+43310
+str ninexlmtdjmszjjjqdmpmn1two7
+first 1, last, 7, res 17
+43327
+str 9533nineone2hpnfdss
+first 9, last, 2, res 92
+43419
+str six3rgrmtgsninetwof
+first 3, last, 3, res 33
+43452
+str fivelvlnzlqj4zrljkprhsbt3zzzkzvfg5
+first 4, last, 5, res 45
+43497
+str 9nvmkt9six2sbzdkhqbg5
+first 9, last, 5, res 95
+43592
+str four716grlbd4sqx2
+first 7, last, 2, res 72
+43664
+str 73fpdz5
+first 7, last, 5, res 75
+43739
+str 65five897b
+first 6, last, 7, res 67
+43806
+str threeone9rltsqbjl58zxxtktwoneh
+first 9, last, 8, res 98
+43904
+str bxfxd5five8
+first 5, last, 8, res 58
+43962
+str 4fzlpr4nzmfive37fivefive
+first 4, last, 7, res 47
+44009
+str vjptnknvlxhzvfpqxfive5four8
+first 5, last, 8, res 58
+44067
+str 9five1dr6eight5hpkx8
+first 9, last, 8, res 98
+44165
+str eight7fourfourxlrztj64sixone
+first 7, last, 4, res 74
+44239
+str twofourqqprdrkmrbgtqj5oneightb
+first 5, last, 5, res 55
+44294
+str 83three
+first 8, last, 3, res 83
+44377
+str threethreefourtnvddnmsixnjhrfmhmxz62one
+first 6, last, 2, res 62
+44439
+str 8fivesevennine2skseven2nr
+first 8, last, 2, res 82
+44521
+str fourseveneight74hmslvqssdfdsltvcsd
+first 7, last, 4, res 74
+44595
+str 38cxc
+first 3, last, 8, res 38
+44633
+str 1njgbbprzf5fivethreeninezgllfmsxfq8pgntvq
+first 1, last, 8, res 18
+44651
+str mshrhzmgbfourthree8
+first 8, last, 8, res 88
+44739
+str 3oneqgqfgreightfourhsxlcb
+first 3, last, 3, res 33
+44772
+str 7sixfivekronefbtrjszbfr
+first 7, last, 7, res 77
+44849
+str hgsqk4xfjzkkxdz
+first 4, last, 4, res 44
+44893
+str twoeightfq5rhdjcbg9
+first 5, last, 9, res 59
+44952
+str drkclzltwovtblgppbtpzrcnlhhtwofivevcnlvxhbn8
+first 8, last, 8, res 88
+45040
+str pksrcnqps5hzdvnbgkmgfoureight9fx
+first 5, last, 9, res 59
+45099
+str 87ppqndvcmtzrttwothree5nine
+first 8, last, 5, res 85
+45184
+str fourfour1fivetwofive2v
+first 1, last, 2, res 12
+45196
+str fivermshbd75
+first 7, last, 5, res 75
+45271
+str 47mljfm9qjnbzjmq
+first 4, last, 9, res 49
+45320
+str 1cqnrmpmknpzgxp8four8
+first 1, last, 8, res 18
+45338
+str eightzgtjn1
+first 1, last, 1, res 11
+45349
+str three2nfdnfivefourseven
+first 2, last, 2, res 22
+45371
+str zjbbj5mxqnnsxml5
+first 5, last, 5, res 55
+45426
+str 8847rtqjrctqczeight5hqmrbzkd3
+first 8, last, 3, res 83
+45509
+str onev5seventkpvrtq
+first 5, last, 5, res 55
+45564
+str sevensevencfjbscdbvqlc12eightwok
+first 1, last, 2, res 12
+45576
+str 2dpnxxlqthree3fourseven
+first 2, last, 3, res 23
+45599
+str 3xfrnxtds9seven
+first 3, last, 9, res 39
+45638
+str eight7four
+first 7, last, 7, res 77
+45715
+str sixzkjrjf1s49xhk
+first 1, last, 9, res 19
+45734
+str foureight1bsxmfdgpgthree
+first 1, last, 1, res 11
+45745
+str crzjxgfldz9nine7
+first 9, last, 7, res 97
+45842
+str dlrzoneeight3blfxhd6hxklgmzcb
+first 3, last, 6, res 36
+45878
+str six1cdlfcsshkh4eightgndfivefour4
+first 1, last, 4, res 14
+45892
+str threethree2xcsixqfsgxjhgf7
+first 2, last, 7, res 27
+45919
+str cnjkkfcnninezbvrthjrhg2two2qzbrchvxqsfqhk5
+first 2, last, 5, res 25
+45944
+str ninefiveqmgnhrdndclldxtjmqmkseven1lcjlqddmbnn
+first 1, last, 1, res 11
+45955
+str zjqlxpn437fivemftgzsz8tsnnbgmm
+first 4, last, 8, res 48
+46003
+str xllzq6l6nineone1
+first 6, last, 1, res 61
+46064
+str vqkjtjdnine4onefive97h
+first 4, last, 7, res 47
+46111
+str two1ltbdnine
+first 1, last, 1, res 11
+46122
+str ninefive62
+first 6, last, 2, res 62
+46184
+str eight8ninetbmtxtmmnfllnj5
+first 8, last, 5, res 85
+46269
+str four9three3ninefxttjkhtkgvpvcbd5
+first 9, last, 5, res 95
+46364
+str 43six3twoeight
+first 4, last, 3, res 43
+46407
+str fourfnctllc1twosixsix67hlgt
+first 1, last, 7, res 17
+46424
+str fourfive8gkblmrninesixgfkpqkleight
+first 8, last, 8, res 88
+46512
+str 5ninermhkttx18three6five
+first 5, last, 6, res 56
+46568
+str 51one2jvbxs6
+first 5, last, 6, res 56
+46624
+str 6pshzkvn87jz12three
+first 6, last, 2, res 62
+46686
+str 62nineseven
+first 6, last, 2, res 62
+46748
+str bchls4fivelpdldjzmbtwofour28seven
+first 4, last, 8, res 48
+46796
+str 274four
+first 2, last, 4, res 24
+46820
+str cjnjksf4cdpvbjfnine2rone
+first 4, last, 2, res 42
+46862
+str krxeight7mzdbbknqdxpzg4eight
+first 7, last, 4, res 74
+46936
+str 1one3gx3eight2
+first 1, last, 2, res 12
+46948
+str 5nine19eighthvcmzbltkfive88
+first 5, last, 8, res 58
+47006
+str 11one2sixxgvmg
+first 1, last, 2, res 12
+47018
+str p51rzprxgldxcznjjonefdjgfqbndnjn
+first 5, last, 1, res 51
+47069
+str 9jfpvqhpht6
+first 9, last, 6, res 96
+47165
+str 9threeseven5
+first 9, last, 5, res 95
+47260
+str seven62
+first 6, last, 2, res 62
+47322
+str threeonefivetwo91three6
+first 9, last, 6, res 96
+47418
+str three3ksl
+first 3, last, 3, res 33
+47451
+str xhltjp6qt
+first 6, last, 6, res 66
+47517
+str 9qtxtnlhgg8four5nine3cvptllv
+first 9, last, 3, res 93
+47610
+str 267jlqgljqfltwo884oneightrb
+first 2, last, 4, res 24
+47634
+str 141eightnlp
+first 1, last, 1, res 11
+47645
+str rxpxrbvgrcmhzone3one6ppnzmg2
+first 3, last, 2, res 32
+47677
+str five5sixrpzjqgbtgdjlmmprh1
+first 5, last, 1, res 51
+47728
+str onefivefivekglldg5six
+first 5, last, 5, res 55
+47783
+str threeseventhree2
+first 2, last, 2, res 22
+47805
+str one1fgcxgjxrm4seven
+first 1, last, 4, res 14
+47819
+str mstfpfhf7seven3ninezvrxeighttwo
+first 7, last, 3, res 73
+47892
+str oneoneqpgdghxl7three3
+first 7, last, 3, res 73
+47965
+str twodlbrctkhjtwothreefivetwo9
+first 9, last, 9, res 99
+48064
+str fivenine19seven8two4
+first 1, last, 4, res 14
+48078
+str vpjkmfsfrjhhbksevenfivervdm514
+first 5, last, 4, res 54
+48132
+str fourjqtggglnfive32kzcx
+first 3, last, 2, res 32
+48164
+str lcrtvrfkzthree4eighttwo9
+first 4, last, 9, res 49
+48213
+str eightnrvtxpqxjztttqvgmlqhxqj1
+first 1, last, 1, res 11
+48224
+str 2ninepqntclhbk5three
+first 2, last, 5, res 25
+48249
+str thfdxrnbbqc6
+first 6, last, 6, res 66
+48315
+str seven8mjpmvbqxhfhxgjdlltnine2
+first 8, last, 2, res 82
+48397
+str hqbthreezqbhlnthreenlfour8kgzzxjcsgz
+first 8, last, 8, res 88
+48485
+str 6jksppsskp63threenshc
+first 6, last, 3, res 63
+48548
+str two8nine
+first 8, last, 8, res 88
+48636
+str bsixmstxhhfnm3bcckpjp
+first 3, last, 3, res 33
+48669
+str 4fourtwo86tkdkxtwo
+first 4, last, 6, res 46
+48715
+str xc4eightsevenbdseight56
+first 4, last, 6, res 46
+48761
+str fourrnntnp9ck
+first 9, last, 9, res 99
+48860
+str onesixflbfss8two2lxhhjdhxntpjpkds
+first 8, last, 2, res 82
+48942
+str threeone71fourcpcsxld
+first 7, last, 1, res 71
+49013
+str bczssjbdzbonemtbrz7five8ccnnj
+first 7, last, 8, res 78
+49091
+str 42onedkxtrhhm1nkn
+first 4, last, 1, res 41
+49132
+str nf6ssm3
+first 6, last, 3, res 63
+49195
+str eighthltsggc2six383
+first 2, last, 3, res 23
+49218
+str srkppleightmxzmlk38
+first 3, last, 8, res 38
+49256
+str 336tdfthnj2fghhklkg
+first 3, last, 2, res 32
+49288
+str zhpsbbjzzk3mxzzsnvdbs
+first 3, last, 3, res 33
+49321
+str 1nine6fiveninerdng37mfks
+first 1, last, 7, res 17
+49338
+str 4ninefour2kznine3
+first 4, last, 3, res 43
+49381
+str fhsjfivehs1
+first 1, last, 1, res 11
+49392
+str one4qzbgrzlcfjbstfc
+first 4, last, 4, res 44
+49436
+str twohkrbh8zlhkgvfivetwormjq
+first 8, last, 8, res 88
+49524
+str ldfzzjzkxx9
+first 9, last, 9, res 99
+49623
+str 7f95stwo3
+first 7, last, 3, res 73
+49696
+str xcppkmb5ntnrzrqndh1oneightxm
+first 5, last, 1, res 51
+49747
+str threebhvkdbbt26qdbcpgm3four
+first 2, last, 3, res 23
+49770
+str mvxd86sevenfjndplrd
+first 8, last, 6, res 86
+49856
+str 585
+first 5, last, 5, res 55
+49911
+str eightseven51xpxxzqnstzlp1
+first 5, last, 1, res 51
+49962
+str one8eight57lvlbzgclktsix1four
+first 8, last, 1, res 81
+50043
+str 255fourone72
+first 2, last, 2, res 22
+50065
+str onexqrbpcmc1two7done6
+first 1, last, 6, res 16
+50081
+str fournineqbxgklbpqqhs2six
+first 2, last, 2, res 22
+50103
+str dnptsevendbphglkqtwoxgsjckf4
+first 4, last, 4, res 44
+50147
+str 25pskrxeightfourjrtgxonetwofnkj
+first 2, last, 5, res 25
+50172
+str sevenfivesevenqtgqlpjkntdnkxqvf4
+first 4, last, 4, res 44
+50216
+str 1xklsljm8knrm3five5eight
+first 1, last, 5, res 15
+50231
+str sevenfiveseven9bnprxvjl
+first 9, last, 9, res 99
+50330
+str threevzmqxdmgc3
+first 3, last, 3, res 33
+50363
+str fkzvone237lgqtxfcnvddqrdmj
+first 2, last, 7, res 27
+50390
+str 5sixnsix6lqmsqdvvdj
+first 5, last, 6, res 56
+50446
+str 287fdvgbtcq
+first 2, last, 7, res 27
+50473
+str sixsevenninelpzlclr4
+first 4, last, 4, res 44
+50517
+str fivesix7
+first 7, last, 7, res 77
+50594
+str 73drvqt7nsixbzt8one
+first 7, last, 8, res 78
+50672
+str xksbgk6knc58oneninetwo
+first 6, last, 8, res 68
+50740
+str lknvtktz62pccjdnc6
+first 6, last, 6, res 66
+50806
+str 7zxskgs
+first 7, last, 7, res 77
+50883
+str nzdtwoneoneqvmt9pmvnthree8lksxhxv
+first 9, last, 8, res 98
+50981
+str 3hzdrjckdsixthree2
+first 3, last, 2, res 32
+51013
+str hbmbcrgmpkxzjthree8sixz
+first 8, last, 8, res 88
+51101
+str 94979ntmkxbzlcone
+first 9, last, 9, res 99
+51200
+str bsb3threesix
+first 3, last, 3, res 33
+51233
+str jpmtgfcgjpkbx8
+first 8, last, 8, res 88
+51321
+str 3tqnctzbmfivebninetwo
+first 3, last, 3, res 33
+51354
+str 9vrpgcbmdktdprzs
+first 9, last, 9, res 99
+51453
+str fourfivefourone9fourqnsjlbgkv9nine
+first 9, last, 9, res 99
+51552
+str 5vlsbplrtonezqhhzt5bgxkspsf
+first 5, last, 5, res 55
+51607
+str one6dkckh6four2gqztm81
+first 6, last, 1, res 61
+51668
+str dtoneighth871
+first 8, last, 1, res 81
+51749
+str five3mzqgxnbmdbcmnteightsixtc
+first 3, last, 3, res 33
+51782
+str 4three19qfourtzh5n
+first 4, last, 5, res 45
+51827
+str 8threefourppvfbrfp4
+first 8, last, 4, res 84
+51911
+str 19five6nvtgsp8
+first 1, last, 8, res 18
+51929
+str sixtwo9tqpqg1fourtwo
+first 9, last, 1, res 91
+52020
+str 1tkzn
+first 1, last, 1, res 11
+52031
+str twofoursevenjp2zphqlzqmmbskkmxmj
+first 2, last, 2, res 22
+52053
+str one1vgvsgbhtwojmgr
+first 1, last, 1, res 11
+52064
+str nine2phxpfnptp
+first 2, last, 2, res 22
+52086
+str rqqxqslzqjlnfb1four
+first 1, last, 1, res 11
+52097
+str 17gkhhffc3oneeight597
+first 1, last, 7, res 17
+52114
+str jjhclx3
+first 3, last, 3, res 33
+52147
+str 2513
+first 2, last, 3, res 23
+52170
+str 3five91tnbkmxeightxonef
+first 3, last, 1, res 31
+52201
+str gpqnkzt2sevennflfrxdonevgkhjrgeight
+first 2, last, 2, res 22
+52223
+str 1one5eightfour5hckvkpxsleight
+first 1, last, 5, res 15
+52238
+str 41rbglbkmqr
+first 4, last, 1, res 41
+52279
+str one8eight
+first 8, last, 8, res 88
+52367
+str 9threevdbtbrbrgrtcdv1
+first 9, last, 1, res 91
+52458
+str 58ninetwonine8three7
+first 5, last, 7, res 57
+52515
+str nineznvtft63t
+first 6, last, 3, res 63
+52578
+str 2nqhjtvds3ksfjkqxhvseven7
+first 2, last, 7, res 27
+52605
+str 41t279zsgmzmjk12
+first 4, last, 2, res 42
+52647
+str eightthreethree12ninehrsbvftksstwo1
+first 1, last, 1, res 11
+52658
+str fmgcfnxbs6vrmtxxvfdz27three
+first 6, last, 7, res 67
+52725
+str 17qkrps1
+first 1, last, 1, res 11
+52736
+str three4two4rnnslsvxmsbcpvnbpfseveneightwokcn
+first 4, last, 4, res 44
+52780
+str 58ninehxcsnzfxbf6xvgcrfznrldqntsbsjmr5
+first 5, last, 5, res 55
+52835
+str 355knfjsdqjm8
+first 3, last, 8, res 38
+52873
+str htsrn3qdbskfsd211
+first 3, last, 1, res 31
+52904
+str 969five
+first 9, last, 9, res 99
+53003
+str tdbjsvfxv67htbpmfx
+first 6, last, 7, res 67
+53070
+str 6l
+first 6, last, 6, res 66
+53136
+str pdzseightjvjxlhgjhrnz9zzjbcrktjc99
+first 9, last, 9, res 99
+53235
+str fourzqlhcjksixthreejrl9first 9, last, 9, res 99
+53334
+answer = 53334
