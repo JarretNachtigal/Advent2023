@@ -4,7 +4,6 @@ first 9, last, 9, res 99
 99
 str bbzhsmnmtf8kftwosevenxfkssgrcjthree
 first 8, last, 8, res 88
-
 187
 str 6pkkcddsixsixjgnjvdtjtwo
 first 6, last, 6, res 66
@@ -47,11 +46,9 @@ first 1, last, 1, res 11
 916
 str jptwoeight6fourfrbpgsmkgl
 first 6, last, 6, res 66
-
 982
 str znfqfjcspf8md
 first 8, last, 8, res 88
-
 1070
 str sixthree7qzj
 first 7, last, 7, res 77
@@ -199,7 +196,6 @@ first 5, last, 5, res 55
 3542
 str ninelnqjlb1csjdnf
 first 1, last, 1, res 11
-
 3553
 str fmklqlxrh9vsbhpmbrd7621seven
 first 9, last, 1, res 91
@@ -362,7 +358,6 @@ first 8, last, 2, res 82
 6434
 str ghnqeight75ninefive
 first 7, last, 5, res 75
-
 6509
 str twohqcrnd9two
 first 9, last, 9, res 99	
@@ -429,7 +424,6 @@ first 3, last, 7, res 37
 7699
 str 9fourtwo928jkdcsfdfivekfr
 first 9, last, 8, res 98
-
 7797
 str hfsfseven4
 first 4, last, 4, res 44	
@@ -616,7 +610,6 @@ first 9, last, 9, res 99
 10849
 str one6prgdcz9
 first 6, last, 9, res 69
-
 10918
 str 5vvlxrhtdtwoneq
 first 5, last, 5, res 55
@@ -728,7 +721,6 @@ first 9, last, 9, res 99
 12859
 str fourthree72zxbnvnmthreeeightsevennj
 first 7, last, 2, res 72
-
 12931
 str fourhqkjzbhxncj21sevenfhvj2
 first 2, last, 2, res 22
@@ -786,7 +778,6 @@ first 7, last, 3, res 73
 14449
 str hhhklssktl7
 first 7, last, 7, res 77
-
 14526
 str mmjtwo1qsnhklfmsj34qsix
 first 1, last, 4, res 14
@@ -820,7 +811,6 @@ first 7, last, 6, res 76
 15040
 str fournine473
 first 4, last, 3, res 43
-
 15083
 str 79two
 first 7, last, 9, res 79
@@ -845,7 +835,6 @@ first 1, last, 1, res 11
 15427
 str twohrxxsxn5sddmfiveeighttwo
 first 5, last, 5, res 55
-
 15482
 str 5scfnine
 first 5, last, 5, res 55
@@ -1038,7 +1027,6 @@ first 5, last, 1, res 51
 19082
 str jdpnptxghs8
 first 8, last, 8, res 88
-
 19170
 str xdbsdttwo4cjlkrzfkqsmmbpdfh
 first 4, last, 4, res 44	
@@ -1051,7 +1039,6 @@ first 8, last, 2, res 82
 19307
 str pbgccdhchr6xdqljs
 first 6, last, 6, res 66
-
 19373
 str tqxnrsvthreenfsrgkqhpq995kdgjtxcdvf
 first 9, last, 5, res 95
@@ -1070,7 +1057,6 @@ first 1, last, 9, res 19
 19689
 str hhzjdhnsdb2
 first 2, last, 2, res 22
-
 19711
 str nlgdm34five4fgqlpsfourqmdjqrklrrk
 first 3, last, 4, res 34
@@ -1116,7 +1102,6 @@ first 1, last, 1, res 11*
 20227
 str fourseven49khbvhbxqvzhthree
 first 4, last, 9, res 49
-
 20276
 str 961lsvnhdgb
 first 9, last, 1, res 91
@@ -1219,7 +1204,6 @@ first 3, last, 1, res 31
 22089
 str mlbvvlkhnl1twofvtlvccbf
 first 1, last, 1, res 11
-
 22100
 str fivexhnpqsixsix2onenine
 first 2, last, 2, res 22
@@ -1262,7 +1246,6 @@ first 8, last, 5, res 85
 22919
 str jxmzrgjcqq8bl
 first 8, last, 8, res 88
-
 23007
 str one67mpktrzzvnhnine66
 first 6, last, 6, res 66
@@ -1323,7 +1306,6 @@ first 5, last, 4, res 54
 23919
 str 5qpqzztgrv9seven
 first 5, last, 9, res 59
-
 23978
 str three43vkfgqhn4
 first 4, last, 4, res 44
@@ -1432,7 +1414,6 @@ first 6, last, 6, res 66
 25774
 str brbjvmjsix3ltktnldrjv
 first 3, last, 3, res 33
-
 25807
 str eight31cmmrrpvtr4n
 first 3, last, 4, res 34
@@ -1550,7 +1531,6 @@ first 6, last, 6, res 66
 27967
 str 8thkcseven8threeeightbqtwo
 first 8, last, 8, res 88
-
 28055
 str 3n97jvtxqbsks2bcrbkhzgh1
 first 3, last, 1, res 31
@@ -1575,7 +1555,6 @@ first 1, last, 2, res 12
 28352
 str 7seven6six3
 first 7, last, 3, res 73
-
 28425
 str sixhlqckdhkgkxmd9twoone4six
 first 9, last, 4, res 94
@@ -1816,7 +1795,6 @@ first 1, last, 9, res 19
 32816
 str one4seven45
 first 4, last, 5, res 45
-
 32861
 str gdh5stxjfzlgcbfivevgn5
 first 5, last, 5, res 55
@@ -1838,7 +1816,6 @@ first 9, last, 4, res 94"
 33229
 str htrsqgmmnk4
 first 4, last, 4, res 44
-
 33273
 str jdrkr23
 first 2, last, 3, res 23
@@ -1884,7 +1861,6 @@ first 3, last, 3, res 33
 34088
 str bgzslddbll5kzbkxgrld
 first 5, last, 5, res 55
-
 34143
 str 7fivefxhggjvgcmqbppgffmfive
 first 7, last, 7, res 77
@@ -1999,7 +1975,6 @@ first 4, last, 7, res 47
 36141
 str 9threenine8
 first 9, last, 8, res 98
-
 36239
 str sevenmmndnbnvstwo96sixlbddllbq5
 first 9, last, 5, res 95
@@ -2291,7 +2266,6 @@ first 1, last, 6, res 16
 41572
 str 5trztdklnh5pbxhjkrbsrbkblrjfive
 first 5, last, 5, res 55
-
 41627
 str v9gsnbfive5438
 first 9, last, 8, res 98
@@ -2367,7 +2341,6 @@ first 9, last, 9, res 99
 43115
 str eightrmqmb5two
 first 5, last, 5, res 55
-
 43170
 str 5four4five38twoxbmthcbnine
 first 5, last, 8, res 58
@@ -2416,7 +2389,6 @@ first 4, last, 9, res 49
 43962
 str 49psqsbvph1cxvzzeightxgfnjqqg
 first 4, last, 1, res 41
-
 44003
 str three2three21
 first 2, last, 1, res 21
@@ -2450,7 +2422,6 @@ first 9, last, 3, res 93
 44419
 str jmvns4onek7gvmbs
 first 4, last, 7, res 47
-
 44466
 str nineone1qmdgdpfrqmvfrfj6three
 first 1, last, 6, res 16
@@ -2484,7 +2455,6 @@ first 9, last, 8, res 98
 45076
 str bxfxd5five8
 first 5, last, 8, res 58
-
 45134
 str 4fzlpr4nzmfive37fivefive
 first 4, last, 7, res 47
@@ -2557,8 +2527,7 @@ first 1, last, 8, res 18
 46510
 str eightzgtjn1
 first 1, last, 1, res 11
-
-46521
+6521
 str three2nfdnfivefourseven
 first 2, last, 2, res 22
 46543
@@ -2675,7 +2644,6 @@ first 5, last, 1, res 51
 48241
 str 9jfpvqhpht6
 first 9, last, 6, res 96
-
 48337
 str 9threeseven5
 first 9, last, 5, res 95
@@ -2769,7 +2737,6 @@ first 4, last, 6, res 46
 49933
 str fourrnntnp9ck
 first 9, last, 9, res 99
-
 50032
 str onesixflbfss8two2lxhhjdhxntpjpkds
 first 8, last, 2, res 82
@@ -2794,11 +2761,9 @@ first 3, last, 8, res 38
 50428
 str 336tdfthnj2fghhklkg
 first 3, last, 2, res 32
-
 50460
 str zhpsbbjzzk3mxzzsnvdbs
 first 3, last, 3, res 33
-
 50493
 str 1nine6fiveninerdng37mfks
 first 1, last, 7, res 17
@@ -2808,7 +2773,6 @@ first 4, last, 3, res 43
 50553
 str fhsjfivehs1
 first 1, last, 1, res 11
-
 50564
 str one4qzbgrzlcfjbstfc
 first 4, last, 4, res 44
@@ -2818,7 +2782,6 @@ first 8, last, 8, res 88
 50696
 str ldfzzjzkxx9
 first 9, last, 9, res 99
-
 50795
 str 7f95stwo3
 first 7, last, 3, res 73
@@ -3026,7 +2989,6 @@ first 9, last, 9, res 99
 54175
 str tdbjsvfxv67htbpmfx
 first 6, last, 7, res 67
-
 54242
 str 6l
 first 6, last, 6, res 66
