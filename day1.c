@@ -18,6 +18,7 @@ typedef struct fileContents Struct;
 struct fileContents readFile(char* filename);
 int sumCalibrations(int len, char** fileContents);
 int getCalibration(char* str);
+int strCalibration(char * str);
 
 
 int main(){
@@ -100,4 +101,18 @@ int getCalibration(char* str) {
     printf("str %sfirst %c, last, %c, res %s\n", str, first, last, res);
 
     return atoi(res);
+}
+
+int strCalibration(char * str) {
+    int i = 0; // point to str letters
+    int numi = 0; // point to index of numbers array
+    char numbers[9][6] = {"one", "two", "three", "four", "five", "six", "seven", "eight", "nine"};
+    int lenstr = strlen(str);
+    
+    char substring[] = {str[i], str[i+1], str[i+2]};
+    char num[] = {numbers[numi][i], numbers[numi][i+1], numbers[numi][i+2]};
+
+    while (i <= lenstr - 2) {
+        
+    }
 }
