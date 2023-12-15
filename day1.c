@@ -18,10 +18,10 @@ typedef struct fileContents Struct;
 struct fileContents readFile(char* filename);
 int sumCalibrations(int len, char** fileContents);
 int getCalibration(char* str);
-int strtonum(char* str)
+int strtonum(char* str);
 
 
-int main(){
+int main() {
     struct fileContents contents = readFile("subset.txt");
     // int ans = sumCalibrations(fileContents);
     int len = contents.len;
@@ -87,9 +87,6 @@ int getCalibration(char* str) {
     int last;
     int current = 0;
     char* numbers[] = { "one", "two", "three", "four", "five", "six", "seven", "eight", "nine" };
-    // for (int i  = 0; i < 9; i++){
-    //     printf("len = %lu\n", strlen(numbers[i]));
-    // }
 
 
     while(!isdigit(str[current]) && current <= len -1) {
@@ -113,7 +110,7 @@ int getCalibration(char* str) {
                 current = indexofnum;
                 printf("current index = %d\n", current);
                 // set first
-                first = strtonum([numbersi]);
+                first = strtonum(numbers[i]);
             }
         }
     }
