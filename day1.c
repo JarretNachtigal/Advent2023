@@ -18,17 +18,17 @@ typedef struct fileContents Struct;
 struct fileContents readFile(char* filename);
 int sumCalibrations(int len, char** fileContents);
 int getCalibration(char* str);
-int strCalibration(char * str);
+int strtonum(char* str)
 
 
 int main(){
-    struct fileContents contents = readFile("day1.txt");
+    struct fileContents contents = readFile("subset.txt");
     // int ans = sumCalibrations(fileContents);
     int len = contents.len;
     char** filecon = contents.contents;
     // printf("%d\n", len);
     int ans = sumCalibrations(len, filecon);
-    printf("answer = %d", ans);
+    printf("answer = %d\n", ans);
     // free(contents);
     // free(ans);
     return 0;
@@ -86,33 +86,55 @@ int getCalibration(char* str) {
     int first;
     int last;
     int current = 0;
+    char* numbers[] = { "one", "two", "three", "four", "five", "six", "seven", "eight", "nine" };
+    // for (int i  = 0; i < 9; i++){
+    //     printf("len = %lu\n", strlen(numbers[i]));
+    // }
+
 
     while(!isdigit(str[current]) && current <= len -1) {
         current++;
     }
     first = str[current];
+
+    // check for first number as string
+    if (current != 1) {
+        char substr[len];
+        strncpy(substr, str, current);
+        printf("substring = %s\n", substr);
+        // check substr for 'one', 'two'...
+        for (int i  = 0; i < 9; i++){
+            // index of first letter of found substring
+            char* strptr = &str[i];
+            int indexofnum = strptr - strstr(str, substr);
+            printf("index mid eval %d\n", indexofnum);
+            // if string exists and is before any other
+            if (indexofnum <= current) {
+                current = indexofnum;
+                printf("current index = %d\n", current);
+                // set first
+                first = strtonum([numbersi]);
+            }
+        }
+    }
+
     current = len - 1;
         while(!isdigit(str[current]) && current >= 0) {
         current--;
     }
-    last = str[current];    
+    last = str[current];
+
+    // check for last number as string
+
+
     
     char res[] = {first, last};
-    printf("str %sfirst %c, last, %c, res %s\n", str, first, last, res);
+    printf("str %s first %c, last, %c, res %s\n", str, first, last, res);
 
     return atoi(res);
 }
 
-int strCalibration(char * str) {
-    int i = 0; // point to str letters
-    int numi = 0; // point to index of numbers array
-    char numbers[9][6] = {"one", "two", "three", "four", "five", "six", "seven", "eight", "nine"};
-    int lenstr = strlen(str);
-    
-    char substring[] = {str[i], str[i+1], str[i+2]};
-    char num[] = {numbers[numi][i], numbers[numi][i+1], numbers[numi][i+2]};
 
-    while (i <= lenstr - 2) {
-        
-    }
+int strtonum(char* str) {
+
 }
