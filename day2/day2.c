@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
-
+#include <string.h>
+#include <stdbool.h>
 // take each game input and count each color from each round. compare this number with 
 //               12 red cubes, 13 green cubes, and 14 blue cubes
 // sum the game numbers of the games in which the number of each is less than the given constraint
@@ -14,8 +15,8 @@
 // Game 4: 1 green, 3 red, 6 blue; 3 green, 6 red; 3 green, 15 blue, 14 red
 // Game 5: 6 red, 1 blue, 3 green; 2 blue, 1 red, 2 green
 
-#define MAX_LINES 1000
-#define MAX_LEN 100
+#define MAX_LINES 100
+#define MAX_LEN 500
 
 struct fileContents {
     int len;
@@ -26,16 +27,28 @@ typedef struct fileContents Struct;
 
 // function declarations
 struct fileContents readFile(char* filename);
-int getScore(char* game);
+int getRoundScore(char* game);
+int getGameScore(char* game_str);
+
+
+
 
 int main() {
     // read file line by line into a string array
-    struct fileContents contents = readFile("day2input.txt");
+    struct fileContents contents = readFile("shortinput.txt");
+    int game_acc = 0;
+    for (int i = 0; i < 3; i++ ) {
+        // printf("current line : %s\n", contents.contents[i]);
+        game_acc+= getGameScore(contents.contents[i]);
+        printf("score %d\n", game_acc);
+        // printf("modified %s", contents.contents[i]);
+    }
     // parse the values
     // compare
     // if happy, add to accumulator
     // else continue
 
+    printf("final score %i\n", game_acc);
     return 0;
 }
 
@@ -46,8 +59,7 @@ struct fileContents readFile(char* filename) {
     for (int i = 0; i < MAX_LINES; i++) {
         fileContents[i] = malloc(MAX_LEN * sizeof(char));
     }
-
-
+    
     FILE *fptr = fopen(filename, "r");
 
     if (fptr == NULL) {
@@ -68,6 +80,68 @@ struct fileContents readFile(char* filename) {
     struct fileContents contents;
     contents.contents = fileContents;
     contents.len = line;
-    printf("lines number = %d\n",  line);
     return contents;
 }
+
+int getGameScore(char* game_str) {
+    int red = 12;
+    int green = 13;
+    int blue = 14;
+    char* saveptr1; // need this for strtok_r
+    char* current_word = strtok_r(game_str, " ", &saveptr1);
+
+    char ** split_game = malloc(100 * sizeof(char*));
+    // create memory for inner
+    for (int i = 0; i < 100; i++) {
+        split_game[i] = malloc(100 * sizeof(char));
+    }
+
+    int current_idx = 0;
+
+    while (current_word != NULL) {
+        split_game[current_idx] = current_word;
+        current_word = strtok_r(NULL, " :,", &saveptr1); // modifies in place, including outside this function
+        current_idx++;
+    }
+
+    int game_number = atoi(split_game[1]);
+    int length = current_idx;
+
+    current_idx = 2;
+    while(current_idx < length) {
+        // printf("here %s\n", split_game[current_idx+ 1] );
+        if (strstr(split_game[current_idx+ 1],"red") != NULL) {
+            red -= atoi(split_game[current_idx]);
+            printf("red found\n");
+        } else if (strstr(split_game[current_idx+ 1],"green") != NULL) {
+            green -= atoi(split_game[current_idx]);
+            printf("green found\n");
+        } else if (strstr(split_game[current_idx+ 1],"blue") != NULL) {
+            blue -= atoi(split_game[current_idx]);
+            printf("blue found\n");
+        }
+        // if end of round is reached
+        if (strchr(split_game[current_idx+ 1], ';') != NULL) {
+            printf("end of round red %d, green %d, blue%d\n", red, green, blue);
+            if (red < 0 || green < 0 || blue < 0) {
+                printf("end of game sad path red %d, green %d, blue%d\n", red, green, blue);
+                return 0;
+            } else {
+                red = 12;
+                green = 13;
+                blue = 14;
+            }
+        }
+        current_idx+=2;
+    }
+    free(split_game);
+    printf("end of game happy path red %d, green %d, blue%d\n", red, green, blue);
+    return game_number;
+}
+// int getRoundScore(char* game) {
+//     // read until number, save it
+//     // check next word
+//     // 
+//     //
+//     return 0;
+// }
