@@ -35,12 +35,12 @@ int getGameScore(char* game_str);
 
 int main() {
     // read file line by line into a string array
-    struct fileContents contents = readFile("shortinput.txt");
+    struct fileContents contents = readFile("day2input.txt");
     int game_acc = 0;
-    for (int i = 0; i < 3; i++ ) {
+    for (int i = 0; i < 100; i++ ) {
         // printf("current line : %s\n", contents.contents[i]);
         game_acc+= getGameScore(contents.contents[i]);
-        printf("score %d\n", game_acc);
+        printf("game %d, score %d\n", i+1, game_acc);
         // printf("modified %s", contents.contents[i]);
     }
     // parse the values
@@ -112,19 +112,14 @@ int getGameScore(char* game_str) {
         // printf("here %s\n", split_game[current_idx+ 1] );
         if (strstr(split_game[current_idx+ 1],"red") != NULL) {
             red -= atoi(split_game[current_idx]);
-            printf("red found\n");
         } else if (strstr(split_game[current_idx+ 1],"green") != NULL) {
             green -= atoi(split_game[current_idx]);
-            printf("green found\n");
         } else if (strstr(split_game[current_idx+ 1],"blue") != NULL) {
             blue -= atoi(split_game[current_idx]);
-            printf("blue found\n");
         }
         // if end of round is reached
         if (strchr(split_game[current_idx+ 1], ';') != NULL) {
-            printf("end of round red %d, green %d, blue%d\n", red, green, blue);
             if (red < 0 || green < 0 || blue < 0) {
-                printf("end of game sad path red %d, green %d, blue%d\n", red, green, blue);
                 return 0;
             } else {
                 red = 12;
@@ -135,7 +130,9 @@ int getGameScore(char* game_str) {
         current_idx+=2;
     }
     free(split_game);
-    printf("end of game happy path red %d, green %d, blue%d\n", red, green, blue);
+    if (red < 0 || green < 0 || blue < 0) {
+        return 0;
+    }
     return game_number;
 }
 // int getRoundScore(char* game) {
