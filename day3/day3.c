@@ -35,35 +35,30 @@ int main() {
 	for (int i = 0; i < y_len; i++) {
 		printf("%s", input_arr[i]);
 
-		int x_len = sizeof(input_arr[i]) / sizeof(char);		
+		int x_len = sizeof(input_arr[i]) / sizeof(char);
+		// keep track of beginning and end index for each number	
+		int num_b_idx = 0;
+		int num_e_idx = 0;
 		bool prev_was_num = false;
-		char str_num[10] = "";
-		int str_num_len = 0;
 		
 		for (int y = 0; y < x_len; y++) {
-			// if not number, go next
-			// if number, append, numeric digit count++
-			// if not a number and previous was a number, digits are now known
-			// check all sides for punctuation
-			// 		etc
 			char current_char = input_arr[i][y];
-			// append
-			str_num[str_num_len] = current_char;			
-
-			if (prev_was_num) {
-				// check if num
-				// true = increment
-			} else {
-				// check if num
-				// true = increment
-				if (isdigit(current_char)) {
-					str_num[str_num_len];	
-					str_num_len++;
+			
+		    if (isdigit(current_char)) {
+				if (prev_was_num) {
+					num_e_idx = y;
+				} else {
+					num_b_idx = y;
+					prev_was_num = true;
 				}
-
-				
-			}	
-
+			} else {
+				prev_was_num = false;
+				// check adjacent
+				// if i = 0 dont look above
+				// if num_b_idx = 0 dont look left
+				// if num_e_idx = x_len dont look right
+				// if i = y_len dont look left
+			}
 		}
 	}
 	printf("\n");
