@@ -80,10 +80,12 @@ int main() {
 						}
 					}
 					// look up
+					int left_idx = num_b_idx;
+					int right_idx = num_e_idx;
+		
 					if (i > 0) {
 						char* above[num_e_idx+1];
-						int left_idx = num_b_idx;
-						int right_idx = num_e_idx;
+
 						
 						if (y != 0) {
 							left_idx--;
@@ -92,19 +94,23 @@ int main() {
 							right_idx++;
 						}
 						//TODO for loop copy
-						strncpy(*above, input_arr[i-1][left_idx], right_idx);
 						int above_len = right_idx - left_idx;
+						for (int g = 0; g < above_len; g++) {
+							above[g] = &input_arr[i-1][left_idx+i];	
+						}
+						// strncpy(*above, input_arr[i-1][left_idx], right_idx);
+
 						for (int j = 0; j < above_len; j++) {
-							if (strchr(puncs, above[j])) {
+							if (strchr(puncs, *above[j])) {
 								found = true;
 							}
 						} 
 					}
+			
+
 					// look below
                     if (i < y_len) {
                         char* below[num_e_idx+1];
-                        int left_idx = num_b_idx;
-                        int right_idx = num_e_idx;
 
                         if (y != 0) {
                             left_idx--;
@@ -113,10 +119,14 @@ int main() {
                             right_idx++;
                         }
 						//TODO for loop copy
-                        strncpy(below, input_arr[i+1][left_idx], right_idx);
-                        int below_len = right_idx - left_idx;
+						int below_len = right_idx - left_idx;
+						for (int g = 0; g < below_len; g++) {
+							below[g] = &input_arr[i-1][left_idx+i];	
+						}
+                        // strncpy(below, input_arr[i+1][left_idx], right_idx);
+
                         for (int j = 0; j < below_len; j++) {
-                            if (strchr(puncs, below[j])) {
+                            if (strchr(puncs, *below[j])) {
                                 found = true;
                             }
                         }
@@ -124,10 +134,15 @@ int main() {
 					if (found) {
 						char* num[10];
 						// TODO for loop copy
-						strncpy(num, input_arr[i], num_b_idx, num_e_idx);
+						// need length of string to copy
+						int len = num_e_idx - num_b_idx;
+						for (int g = 0; g <= len; g++) {
+							num[g] = &input_arr[i-1][left_idx+i];	
+						}
+						// strncpy(num, input_arr[i], num_b_idx, num_e_idx);
 						//str to num
 						// TODO why this broken?
-						acc += atoi(num);
+						acc += atoi(*num);
 					}
 				}
 			}
