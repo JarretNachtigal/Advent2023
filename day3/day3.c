@@ -38,7 +38,7 @@ int main() {
 		
 		for (int y = 0; y < x_len; y++) {
 			// if not number, go next
-			// if number, numeric digit count++
+			// if number, append, numeric digit count++
 			// if not a number and previous was a number, digits are now known
 			// check all sides for punctuation
 			// 		etc	
