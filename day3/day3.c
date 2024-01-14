@@ -14,12 +14,37 @@ struct fileContents {
 
 typedef struct fileContents Struct;
 
+//function definitions
 struct fileContents readFile(char* filename);
 
 
 
 int main() {
+    struct fileContents contents = readFile("shortinput.txt"); 
+    // loop through the matrix
+	// upon reaching a number, determine how many digits
+	// look to it left (unless [x][0])
+	// look to its right (inless [x][len-1]
+	// look below in [x-1][y-1,y,y+1 (based on length of number in digits)]
+	// 		unless x=length-1
+	// look above
+    
+	char ** input_arr = contents.contents;
+	int y_len = contents.len;
 
+	for (int i = 0; i < y_len; i++) {
+		printf("%s", input_arr[i]);
+		int x_len = sizeof(input_arr[i]) / sizeof(char);
+		
+		for (int y = 0; y < x_len; y++) {
+			// if not number, go next
+			// if number, numeric digit count++
+			// if not a number and previous was a number, digits are now known
+			// check all sides for punctuation
+			// 		etc	
+		}
+	}
+	printf("\n");
     return 0;
 }
 
