@@ -2,6 +2,7 @@
 #include <stdlib.h>
 #include <string.h>
 #include <ctype.h>
+#include <stdbool.h>
 
 // for file reading
 #define MAX_LINES 140
@@ -31,7 +32,7 @@ int main() {
     
 	char ** input_arr = contents.contents;
 	int y_len = contents.len;
-
+	int acc = 0;
 	for (int i = 0; i < y_len; i++) {
 		printf("%s", input_arr[i]);
 
@@ -49,6 +50,7 @@ int main() {
 					num_e_idx = y;
 				} else {
 					num_b_idx = y;
+					num_e_idx = y;
 					prev_was_num = true;
 				}
 			} else {
@@ -71,22 +73,67 @@ int main() {
 						}
 					}
 					// look right
-					if (y < y_len) {
+					if (y < x_len - 1) {
 						char right = input_arr[i][num_e_idx+1];
 						if (strchr(puncs, right)){
 							found = true;
 						}
 					}
-					char right = input_arr[i][num_e_idx+1];
 					// look up
-					char * above = ;
+					if (i > 0) {
+						char* above[num_e_idx+1];
+						int left_idx = num_b_idx;
+						int right_idx = num_e_idx;
+						
+						if (y != 0) {
+							left_idx--;
+						}
+						if (y != x_len){
+							right_idx++;
+						}
+						//TODO for loop copy
+						strncpy(*above, input_arr[i-1][left_idx], right_idx);
+						int above_len = right_idx - left_idx;
+						for (int j = 0; j < above_len; j++) {
+							if (strchr(puncs, above[j])) {
+								found = true;
+							}
+						} 
+					}
 					// look below
-					char * below = ;
+                    if (i < y_len) {
+                        char* below[num_e_idx+1];
+                        int left_idx = num_b_idx;
+                        int right_idx = num_e_idx;
+
+                        if (y != 0) {
+                            left_idx--;
+                        }
+                        if (y != x_len){
+                            right_idx++;
+                        }
+						//TODO for loop copy
+                        strncpy(below, input_arr[i+1][left_idx], right_idx);
+                        int below_len = right_idx - left_idx;
+                        for (int j = 0; j < below_len; j++) {
+                            if (strchr(puncs, below[j])) {
+                                found = true;
+                            }
+                        }
+                    }
+					if (found) {
+						char* num[10];
+						// TODO for loop copy
+						strncpy(num, input_arr[i], num_b_idx, num_e_idx);
+						//str to num
+						// TODO why this broken?
+						acc += atoi(num);
+					}
 				}
 			}
 		}
 	}
-	printf("\n");
+	printf("%d\n", acc);
     return 0;
 }
 
