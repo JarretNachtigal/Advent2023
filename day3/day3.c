@@ -34,14 +34,36 @@ int main() {
 
 	for (int i = 0; i < y_len; i++) {
 		printf("%s", input_arr[i]);
-		int x_len = sizeof(input_arr[i]) / sizeof(char);
+
+		int x_len = sizeof(input_arr[i]) / sizeof(char);		
+		bool prev_was_num = false;
+		char str_num[10] = "";
+		int str_num_len = 0;
 		
 		for (int y = 0; y < x_len; y++) {
 			// if not number, go next
 			// if number, append, numeric digit count++
 			// if not a number and previous was a number, digits are now known
 			// check all sides for punctuation
-			// 		etc	
+			// 		etc
+			char current_char = input_arr[i][y];
+			// append
+			str_num[str_num_len] = current_char;			
+
+			if (prev_was_num) {
+				// check if num
+				// true = increment
+			} else {
+				// check if num
+				// true = increment
+				if (isdigit(current_char)) {
+					str_num[str_num_len];	
+					str_num_len++;
+				}
+
+				
+			}	
+
 		}
 	}
 	printf("\n");
