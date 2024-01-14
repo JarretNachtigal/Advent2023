@@ -1,0 +1,39 @@
+pass 3 lines of the text into a function as seperate arrays
+
+    above_arr
+    below_arr
+    current_arr
+
+if i = 0, pass above_arr as an empty array?
+etc for i = len with below_arr
+
+loop through current_arr
+
+mark begin and end of each number
+
+    num_b_idx
+    num_e_idx
+
+set to true when number is found, set the false when next char
+is not a number
+
+    prev_was_num = false
+
+accumulator
+
+    int acc = 0;
+
+
+
+
+
+
+
+
+pointers
+
+int age = 1
+int* pAge = &age // the address of age
+
+// dereference, get the value at the address being pointed to
+printf("%d", *pAge)
