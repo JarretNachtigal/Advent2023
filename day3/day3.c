@@ -52,12 +52,37 @@ int main() {
 					prev_was_num = true;
 				}
 			} else {
-				prev_was_num = false;
-				// check adjacent
-				// if i = 0 dont look above
-				// if num_b_idx = 0 dont look left
-				// if num_e_idx = x_len dont look right
-				// if i = y_len dont look left
+				// only look if num was found
+				if (prev_was_num) {
+					char* puncs = "/-$*=%#+@&";
+					prev_was_num = false;
+					// check adjacent
+					// if i = 0 dont look above
+					// if num_b_idx = 0 dont look left
+					// if num_e_idx = x_len dont look right
+					// if i = y_len dont look left
+					
+					// look left
+					bool found = false;
+					if (y < 0) {	
+						char left = input_arr[i][num_b_idx-1];
+						if (strchr(puncs,left)){
+							found = true;
+						}
+					}
+					// look right
+					if (y < y_len) {
+						char right = input_arr[i][num_e_idx+1];
+						if (strchr(puncs, right)){
+							found = true;
+						}
+					}
+					char right = input_arr[i][num_e_idx+1];
+					// look up
+					char * above = ;
+					// look below
+					char * below = ;
+				}
 			}
 		}
 	}
