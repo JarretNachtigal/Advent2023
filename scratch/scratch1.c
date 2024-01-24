@@ -39,3 +39,12 @@ int main() {
     // this same thing will happen if an array is passed as a parameter
 
 }
+
+// 1) This function takes an array as an argument
+// void funcArray(char arg[5]);
+// 2) This one takes a pointer
+// void funcPointer(char *arg);
+// 3) And this on etakes a *reference* to an array
+// void funcRefArray(char (&arg)[]);
+// 4) and finally... this one takes a reference to a pointer
+// void funcRefPointer(char *(&arg));
