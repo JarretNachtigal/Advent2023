@@ -38,8 +38,13 @@ int main() {
     printf("%ld\n", sizeof(char));  // 1 - for reference
     // this same thing will happen if an array is passed as a parameter
 
+    char chararr7[5] = "this"; // this has a null terminator?
+    char chararr6[5] = "thing"; // this lacks a null terminator?
+    printf("%ld\n", sizeof(chararr6)); // still 5 due to metadata?
+    printf("%s\n", chararr6); // thingyeppers
+    printf("%ld\n", sizeof(chararr7)); // still 5 due to metadata?
+    printf("%s\n", chararr7); // this
 }
-
 // 1) This function takes an array as an argument
 // void funcArray(char arg[5]);
 // 2) This one takes a pointer
