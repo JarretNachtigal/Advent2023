@@ -24,11 +24,16 @@ int main() {
     struct fileContents contents = readFile("shortinput.txt"); 
 
 	int acc = 0;
-	for (int i = 0; i <= contents.len; i++){
-		char* above_arr;
+	for (int i = 0; i < contents.len - 1; i++){
+		char* above_arr = &contents.contents[i];
 		char* below_arr;
-		char* current_arr = contents.contents[i];
-		// TODO init arrays
+		char* current_arr = &contents.contents[i+1];
+		// init below different on last iteration
+		if ( i <= contents.len - 2 ) {
+			below_arr = &contents.contents[i+2];
+		} else {
+			else below_arr = NULL;
+		}
 
 		acc = getPartValues(above_arr, below_arr, current_arr);
 		
@@ -39,6 +44,7 @@ int main() {
 int getPartValues (char* above_arr, char* below_arr, char* current_arr) {
 	// get current_arr len
 	// loop through current_arr
+	// DO NOT CHECK BELOW IF below_arr = NLL	
 	int len = sizeof(current_arr) / size_of(char);
 }
 

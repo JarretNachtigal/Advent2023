@@ -36,4 +36,5 @@ int age = 1
 int* pAge = &age // the address of age
 
 // dereference, get the value at the address being pointed to
+// * = indirection
 printf("%d", *pAge)
